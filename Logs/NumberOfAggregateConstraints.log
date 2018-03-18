@@ -1,0 +1,1951 @@
+Feb 26, 2018 8:52:18 PM predgen.launch.Runner body
+INFO: Listing All Rules (Including complex ones)
+Feb 26, 2018 8:52:18 PM predgen.launch.Runner body
+INFO: Rule [win: 20
+Event Constraints: [Event7[(Attribute0 >= 47)], Event13[(Attribute0 <= 38)], Event9[(Attribute0 <= 46)]]
+Sequence Constraints: [[Event7[(Attribute0 >= 47)] --> Event13[(Attribute0 <= 38)]], [Event13[(Attribute0 <= 38)] --> Event9[(Attribute0 <= 46)]]]
+Aggregate Constraints: [[Max(Event2[].Attribute0)>=19], [Avg(Event1[].Attribute0)<=47]]]
+Feb 26, 2018 8:52:38 PM predgen.launch.Runner body
+INFO: DataFile Printed
+Feb 26, 2018 9:06:02 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=0| k=0
+Feb 26, 2018 9:06:02 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1023, Detected Events=1231, False Positives=208, False Negatives=0, Precision=0.8310316815597075, Recall=1.0F1 Measure=0.9077196095829635
+Feb 26, 2018 9:19:47 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=0| k=2
+Feb 26, 2018 9:19:47 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1023, Detected Events=1088, False Positives=65, False Negatives=0, Precision=0.9402573529411765, Recall=1.0F1 Measure=0.9692089057318806
+Feb 26, 2018 9:33:58 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=0| k=4
+Feb 26, 2018 9:33:58 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1023, Detected Events=1057, False Positives=34, False Negatives=0, Precision=0.967833491012299, Recall=1.0F1 Measure=0.9836538461538462
+Feb 26, 2018 9:46:21 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=0| k=6
+Feb 26, 2018 9:46:21 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1023, Detected Events=1055, False Positives=32, False Negatives=0, Precision=0.9696682464454977, Recall=1.0F1 Measure=0.9846005774783445
+Feb 26, 2018 10:00:28 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=0| k=8
+Feb 26, 2018 10:00:28 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1023, Detected Events=1045, False Positives=22, False Negatives=0, Precision=0.9789473684210527, Recall=1.0F1 Measure=0.9893617021276596
+Feb 26, 2018 10:14:02 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=0| k=10
+Feb 26, 2018 10:14:02 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1023, Detected Events=1043, False Positives=20, False Negatives=0, Precision=0.9808245445829339, Recall=1.0F1 Measure=0.9903194578896418
+Feb 26, 2018 10:26:06 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=0| k=12
+Feb 26, 2018 10:26:06 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1023, Detected Events=1041, False Positives=18, False Negatives=0, Precision=0.9827089337175793, Recall=1.0F1 Measure=0.9912790697674418
+Feb 26, 2018 10:39:28 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=0| k=14
+Feb 26, 2018 10:39:28 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1023, Detected Events=1039, False Positives=16, False Negatives=0, Precision=0.9846005774783445, Recall=1.0F1 Measure=0.9922405431619786
+Feb 26, 2018 10:53:44 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=0| k=16
+Feb 26, 2018 10:53:44 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1023, Detected Events=1033, False Positives=10, False Negatives=0, Precision=0.9903194578896418, Recall=1.0F1 Measure=0.995136186770428
+Feb 26, 2018 11:06:06 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=0| k=18
+Feb 26, 2018 11:06:06 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1023, Detected Events=1023, False Positives=10, False Negatives=10, Precision=0.9902248289345064, Recall=0.9902248289345064F1 Measure=0.9902248289345064
+Feb 26, 2018 11:18:50 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=0
+Feb 26, 2018 11:18:50 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1023, Detected Events=1160, False Positives=137, False Negatives=0, Precision=0.881896551724138, Recall=1.0F1 Measure=0.9372423270728355
+Feb 26, 2018 11:31:13 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=2
+Feb 26, 2018 11:31:13 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1023, Detected Events=1083, False Positives=60, False Negatives=0, Precision=0.9445983379501385, Recall=1.0F1 Measure=0.9715099715099714
+Feb 26, 2018 11:44:12 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=4
+Feb 26, 2018 11:44:12 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1023, Detected Events=1056, False Positives=33, False Negatives=0, Precision=0.96875, Recall=1.0F1 Measure=0.9841269841269841
+Feb 26, 2018 11:57:20 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=6
+Feb 26, 2018 11:57:20 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1023, Detected Events=1046, False Positives=23, False Negatives=0, Precision=0.9780114722753346, Recall=1.0F1 Measure=0.9888835186080231
+Feb 27, 2018 12:12:18 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=8
+Feb 27, 2018 12:12:18 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1023, Detected Events=1031, False Positives=10, False Negatives=2, Precision=0.9903006789524733, Recall=0.9980449657869013F1 Measure=0.994157740993184
+Feb 27, 2018 12:26:20 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=10
+Feb 27, 2018 12:26:20 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1023, Detected Events=1030, False Positives=10, False Negatives=3, Precision=0.9902912621359223, Recall=0.9970674486803519F1 Measure=0.9936678032148076
+Feb 27, 2018 12:40:32 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=0
+Feb 27, 2018 12:40:32 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1023, Detected Events=1261, False Positives=238, False Negatives=0, Precision=0.8112609040444092, Recall=1.0F1 Measure=0.8957968476357268
+Feb 27, 2018 12:56:04 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=2
+Feb 27, 2018 12:56:04 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1023, Detected Events=1143, False Positives=120, False Negatives=0, Precision=0.89501312335958, Recall=1.0F1 Measure=0.9445983379501386
+Feb 27, 2018 1:10:55 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=4
+Feb 27, 2018 1:10:55 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1023, Detected Events=1102, False Positives=79, False Negatives=0, Precision=0.9283121597096189, Recall=1.0F1 Measure=0.9628235294117647
+Feb 27, 2018 1:25:54 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=6
+Feb 27, 2018 1:25:54 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1023, Detected Events=1085, False Positives=62, False Negatives=0, Precision=0.9428571428571428, Recall=1.0F1 Measure=0.9705882352941176
+Feb 27, 2018 1:40:48 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=8
+Feb 27, 2018 1:40:48 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1023, Detected Events=1073, False Positives=51, False Negatives=1, Precision=0.9524697110904008, Recall=0.9990224828934506F1 Measure=0.9751908396946566
+Feb 27, 2018 1:56:35 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=10
+Feb 27, 2018 1:56:35 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1023, Detected Events=1069, False Positives=47, False Negatives=1, Precision=0.9560336763330215, Recall=0.9990224828934506F1 Measure=0.977055449330784
+Feb 27, 2018 2:10:39 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=12
+Feb 27, 2018 2:10:39 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1023, Detected Events=1058, False Positives=38, False Negatives=3, Precision=0.9640831758034026, Recall=0.9970674486803519F1 Measure=0.9802979336857282
+Feb 27, 2018 2:24:33 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=14
+Feb 27, 2018 2:24:33 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1023, Detected Events=1052, False Positives=32, False Negatives=3, Precision=0.9695817490494296, Recall=0.9970674486803519F1 Measure=0.9831325301204819
+Feb 27, 2018 2:38:00 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=16
+Feb 27, 2018 2:38:00 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1023, Detected Events=1040, False Positives=22, False Negatives=5, Precision=0.9788461538461538, Recall=0.9951124144672532F1 Measure=0.98691226369365
+Feb 27, 2018 2:51:30 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=18
+Feb 27, 2018 2:51:30 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1023, Detected Events=1036, False Positives=22, False Negatives=9, Precision=0.9787644787644788, Recall=0.9912023460410557F1 Measure=0.9849441476444877
+EstimatedCost: 13.333333015441895
+Feb 27, 2018 2:51:54 AM predgen.launch.Runner body
+INFO: TestFile Printed
+Feb 27, 2018 2:52:34 AM predgen.launch.Runner body
+INFO: RULE[1]-FINAL
+Feb 27, 2018 2:52:41 AM predgen.launch.Runner body
+INFO: Real Events=3054, Detected Events=4577, False Positives=1543, False Negatives=20, Precision=0.6628796154686476, Recall=0.9934512115258677F1 Measure=0.795177565194601
+Feb 27, 2018 2:52:41 AM predgen.launch.Runner body
+INFO: Real Events=29652, Detected Events=32557, False Positives=2962, False Negatives=57, Precision=0.9090211014528365, Recall=0.9980777013354917F1 Measure=0.9514700445273192
+Feb 27, 2018 2:53:17 AM predgen.launch.Runner body
+INFO: RULE[1]-ORIGINAL
+Feb 27, 2018 2:53:24 AM predgen.launch.Runner body
+INFO: Real Events=3054, Detected Events=6632, False Positives=3582, False Negatives=4, Precision=0.45989143546441497, Recall=0.9986902423051736F1 Measure=0.629774932892835
+Feb 27, 2018 2:53:24 AM predgen.launch.Runner body
+INFO: Real Events=3054, Detected Events=6632, False Positives=3582, False Negatives=4, Precision=0.45989143546441497, Recall=0.9986902423051736F1 Measure=0.629774932892835
+Feb 27, 2018 2:53:24 AM inductivecep.eval.ExperimentJob execute
+INFO: Real Rule: Rule [win: 20
+Event Constraints: [Event7[(Attribute0 >= 47)], Event13[(Attribute0 <= 38)], Event9[(Attribute0 <= 46)]]
+Sequence Constraints: [[Event7[(Attribute0 >= 47)] --> Event13[(Attribute0 <= 38)]], [Event13[(Attribute0 <= 38)] --> Event9[(Attribute0 <= 46)]]]
+Aggregate Constraints: [[Max(Event2[].Attribute0)>=19], [Avg(Event1[].Attribute0)<=47]]]
+Feb 27, 2018 2:53:28 AM inductivecep.eval.ExperimentJob execute
+INFO: Learned Rule: Rule [win: 20
+Event Constraints: [Event13[(Attribute0 <= 49 AND Attribute0 >= 0)], Event7[(Attribute0 <= 49 AND Attribute0 >= 0)], Event9[(Attribute0 <= 49 AND Attribute0 >= 0)], Event2[(Attribute0 <= 49 AND Attribute0 >= 0)]]
+Sequence Constraints: [[Event7[(Attribute0 <= 49 AND Attribute0 >= 0)] --> Event9[(Attribute0 <= 49 AND Attribute0 >= 0)]], [Event7[(Attribute0 <= 49 AND Attribute0 >= 0)] --> Event13[(Attribute0 <= 49 AND Attribute0 >= 0)]], [Event13[(Attribute0 <= 49 AND Attribute0 >= 0)] --> Event9[(Attribute0 <= 49 AND Attribute0 >= 0)]]]]
+Feb 27, 2018 2:53:29 AM inductivecep.eval.ExperimentJob evaluateLearnedRule
+INFO: Real Events=3879, Detected Events=15103, False Positives=11224, False Negatives=0, Precision=0.256836390121168, Recall=1.0
+Feb 27, 2018 2:53:29 AM inductivecep.eval.ExperimentJob getSynthacticDifferencesBetweenRules
+INFO: SyntacticDifferenceStatistics [typeDistance=1.0, attributeDistance=1.0, predicateDistance=0.3603642173515132, winDistance=0.0, parameterDistance=0.0, aggregateDistance=2.0, sequenceDistance=5.0, negationDistance=0.0]
+java.io.FileNotFoundException: /Volumes/RamDisk/Results/filename_123456 (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at inductivecep.eval.ExperimentJob.execute(ExperimentJob.java:101)
+	at predgen.launch.Runner.body(Runner.java:413)
+	at predgen.launch.Runner.execute(Runner.java:471)
+	at predgen.launch.LaunchC50.main(LaunchC50.java:63)
+java.io.FileNotFoundException: /Volumes/RamDisk/Results/filename_Log_123456 (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at inductivecep.eval.ExperimentJob.execute(ExperimentJob.java:112)
+	at predgen.launch.Runner.body(Runner.java:413)
+	at predgen.launch.Runner.execute(Runner.java:471)
+	at predgen.launch.LaunchC50.main(LaunchC50.java:63)
+java.io.FileNotFoundException: /Volumes/RamDisk/Results/filename_Syntactic_123456 (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at inductivecep.eval.ExperimentJob.execute(ExperimentJob.java:123)
+	at predgen.launch.Runner.body(Runner.java:413)
+	at predgen.launch.Runner.execute(Runner.java:471)
+	at predgen.launch.LaunchC50.main(LaunchC50.java:63)
+Feb 27, 2018 2:54:57 AM predgen.launch.Runner body
+INFO: Listing All Rules (Including complex ones)
+Feb 27, 2018 2:54:57 AM predgen.launch.Runner body
+INFO: Rule [win: 20
+Event Constraints: [Event2[(Attribute0 >= 37)], Event0[(Attribute0 >= 25)], Event5[(Attribute0 >= 13)]]
+Sequence Constraints: [[Event0[(Attribute0 >= 25)] --> Event5[(Attribute0 >= 13)]], [Event2[(Attribute0 >= 37)] --> Event0[(Attribute0 >= 25)]]]
+Aggregate Constraints: [[Avg(Event7[].Attribute1)>=34], [Max(Event14[].Attribute1)>=30], [Sum(Event11[].Attribute0)<=42]]]
+Feb 27, 2018 2:55:12 AM predgen.launch.Runner body
+INFO: DataFile Printed
+Feb 27, 2018 3:10:05 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=0| k=0
+Feb 27, 2018 3:10:05 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1019, Detected Events=1166, False Positives=147, False Negatives=0, Precision=0.8739279588336192, Recall=1.0F1 Measure=0.9327231121281464
+Feb 27, 2018 3:23:35 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=0| k=2
+Feb 27, 2018 3:23:35 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1019, Detected Events=1058, False Positives=39, False Negatives=0, Precision=0.9631379962192816, Recall=1.0F1 Measure=0.9812229176697159
+Feb 27, 2018 3:37:16 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=0| k=4
+Feb 27, 2018 3:37:16 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1019, Detected Events=1047, False Positives=28, False Negatives=0, Precision=0.9732569245463228, Recall=1.0F1 Measure=0.9864472410454986
+Feb 27, 2018 3:51:13 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=0| k=6
+Feb 27, 2018 3:51:13 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1019, Detected Events=1040, False Positives=21, False Negatives=0, Precision=0.9798076923076923, Recall=1.0F1 Measure=0.989800874210782
+Feb 27, 2018 4:05:41 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=0| k=8
+Feb 27, 2018 4:05:41 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1019, Detected Events=1036, False Positives=17, False Negatives=0, Precision=0.9835907335907336, Recall=1.0F1 Measure=0.991727493917275
+Feb 27, 2018 4:19:40 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=0| k=10
+Feb 27, 2018 4:19:40 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1019, Detected Events=1032, False Positives=13, False Negatives=0, Precision=0.9874031007751938, Recall=1.0F1 Measure=0.9936616284739151
+Feb 27, 2018 4:33:52 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=0| k=12
+Feb 27, 2018 4:33:52 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1019, Detected Events=1029, False Positives=10, False Negatives=0, Precision=0.9902818270165209, Recall=1.0F1 Measure=0.9951171875
+Feb 27, 2018 4:47:55 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=0| k=14
+Feb 27, 2018 4:47:55 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1019, Detected Events=1029, False Positives=10, False Negatives=0, Precision=0.9902818270165209, Recall=1.0F1 Measure=0.9951171875
+Feb 27, 2018 5:00:52 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=0| k=16
+Feb 27, 2018 5:00:52 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1019, Detected Events=1028, False Positives=9, False Negatives=0, Precision=0.9912451361867705, Recall=1.0F1 Measure=0.9956033219345384
+Feb 27, 2018 5:13:05 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=0| k=18
+Feb 27, 2018 5:13:05 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1019, Detected Events=1028, False Positives=9, False Negatives=0, Precision=0.9912451361867705, Recall=1.0F1 Measure=0.9956033219345384
+Feb 27, 2018 5:25:55 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=0| k=20
+Feb 27, 2018 5:25:55 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1019, Detected Events=1028, False Positives=9, False Negatives=0, Precision=0.9912451361867705, Recall=1.0F1 Measure=0.9956033219345384
+Feb 27, 2018 5:40:45 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=0
+Feb 27, 2018 5:40:45 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1019, Detected Events=1167, False Positives=148, False Negatives=0, Precision=0.8731790916880892, Recall=1.0F1 Measure=0.9322964318389754
+Feb 27, 2018 5:54:43 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=2
+Feb 27, 2018 5:54:43 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1019, Detected Events=1068, False Positives=49, False Negatives=0, Precision=0.954119850187266, Recall=1.0F1 Measure=0.9765213224724486
+Feb 27, 2018 6:09:37 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=4
+Feb 27, 2018 6:09:37 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1019, Detected Events=1046, False Positives=27, False Negatives=0, Precision=0.9741873804971319, Recall=1.0F1 Measure=0.9869249394673123
+Feb 27, 2018 6:23:58 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=6
+Feb 27, 2018 6:23:58 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1019, Detected Events=1034, False Positives=15, False Negatives=0, Precision=0.9854932301740812, Recall=1.0F1 Measure=0.9926936190940088
+Feb 27, 2018 6:37:41 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=8
+Feb 27, 2018 6:37:41 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1019, Detected Events=1033, False Positives=14, False Negatives=0, Precision=0.9864472410454985, Recall=1.0F1 Measure=0.99317738791423
+Feb 27, 2018 6:51:21 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=10
+Feb 27, 2018 6:51:21 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1019, Detected Events=1033, False Positives=14, False Negatives=0, Precision=0.9864472410454985, Recall=1.0F1 Measure=0.99317738791423
+Feb 27, 2018 7:06:30 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=12
+Feb 27, 2018 7:06:30 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1019, Detected Events=1031, False Positives=12, False Negatives=0, Precision=0.988360814742968, Recall=1.0F1 Measure=0.9941463414634147
+Feb 27, 2018 7:20:59 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=14
+Feb 27, 2018 7:20:59 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1019, Detected Events=1026, False Positives=8, False Negatives=1, Precision=0.9922027290448343, Recall=0.9990186457311089F1 Measure=0.9955990220048899
+Feb 27, 2018 7:34:08 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=16
+Feb 27, 2018 7:34:08 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1019, Detected Events=1028, False Positives=9, False Negatives=0, Precision=0.9912451361867705, Recall=1.0F1 Measure=0.9956033219345384
+Feb 27, 2018 7:47:49 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=18
+Feb 27, 2018 7:47:49 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1019, Detected Events=1027, False Positives=8, False Negatives=0, Precision=0.9922103213242454, Recall=1.0F1 Measure=0.9960899315738024
+Feb 27, 2018 8:02:41 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=20
+Feb 27, 2018 8:02:41 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1019, Detected Events=1027, False Positives=8, False Negatives=0, Precision=0.9922103213242454, Recall=1.0F1 Measure=0.9960899315738024
+Feb 27, 2018 8:18:19 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=0
+Feb 27, 2018 8:18:19 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1019, Detected Events=1331, False Positives=312, False Negatives=0, Precision=0.7655897821187078, Recall=1.0F1 Measure=0.8672340425531915
+Feb 27, 2018 8:31:17 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=2
+Feb 27, 2018 8:31:17 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1019, Detected Events=1182, False Positives=163, False Negatives=0, Precision=0.862098138747885, Recall=1.0F1 Measure=0.9259427532939574
+Feb 27, 2018 8:44:28 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=4
+Feb 27, 2018 8:44:28 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1019, Detected Events=1110, False Positives=92, False Negatives=1, Precision=0.9171171171171171, Recall=0.9990186457311089F1 Measure=0.9563175199624235
+Feb 27, 2018 8:55:56 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=6
+Feb 27, 2018 8:55:56 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1019, Detected Events=1081, False Positives=63, False Negatives=1, Precision=0.9417206290471786, Recall=0.9990186457311089F1 Measure=0.9695238095238095
+Feb 27, 2018 9:08:08 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=8
+Feb 27, 2018 9:08:08 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1019, Detected Events=1081, False Positives=63, False Negatives=1, Precision=0.9417206290471786, Recall=0.9990186457311089F1 Measure=0.9695238095238095
+Feb 27, 2018 9:18:41 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=10
+Feb 27, 2018 9:18:41 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1019, Detected Events=1061, False Positives=43, False Negatives=1, Precision=0.9594721960414703, Recall=0.9990186457311089F1 Measure=0.9788461538461538
+Feb 27, 2018 9:29:25 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=12
+Feb 27, 2018 9:29:25 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1019, Detected Events=1059, False Positives=41, False Negatives=1, Precision=0.9612842304060434, Recall=0.9990186457311089F1 Measure=0.9797882579403272
+Feb 27, 2018 9:40:58 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=14
+Feb 27, 2018 9:40:58 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1019, Detected Events=1059, False Positives=40, False Negatives=0, Precision=0.9622285174693107, Recall=1.0F1 Measure=0.9807507218479308
+Feb 27, 2018 9:52:13 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=16
+Feb 27, 2018 9:52:13 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1019, Detected Events=1054, False Positives=36, False Negatives=1, Precision=0.9658444022770398, Recall=0.9990186457311089F1 Measure=0.9821514712976361
+Feb 27, 2018 10:03:36 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=18
+Feb 27, 2018 10:03:36 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1019, Detected Events=1056, False Positives=38, False Negatives=1, Precision=0.9640151515151515, Recall=0.9990186457311089F1 Measure=0.9812048192771085
+EstimatedCost: 18.66666603088379
+Feb 27, 2018 10:03:53 AM predgen.launch.Runner body
+INFO: TestFile Printed
+Feb 27, 2018 10:04:48 AM predgen.launch.Runner body
+INFO: RULE[1]-FINAL
+Feb 27, 2018 10:04:53 AM predgen.launch.Runner body
+INFO: Real Events=3066, Detected Events=4819, False Positives=1781, False Negatives=28, Precision=0.6304212492218303, Recall=0.9908675799086758F1 Measure=0.770577045022194
+Feb 27, 2018 10:04:53 AM predgen.launch.Runner body
+INFO: Real Events=38728, Detected Events=45566, False Positives=6878, False Negatives=40, Precision=0.8490541192994777, Recall=0.9989671555463747F1 Measure=0.9179301017866041
+Feb 27, 2018 10:05:23 AM predgen.launch.Runner body
+INFO: RULE[1]-ORIGINAL
+Feb 27, 2018 10:05:28 AM predgen.launch.Runner body
+INFO: Real Events=3066, Detected Events=6180, False Positives=3114, False Negatives=0, Precision=0.4961165048543689, Recall=1.0F1 Measure=0.6632057105775471
+Feb 27, 2018 10:05:28 AM predgen.launch.Runner body
+INFO: Real Events=3066, Detected Events=6180, False Positives=3114, False Negatives=0, Precision=0.4961165048543689, Recall=1.0F1 Measure=0.6632057105775471
+Feb 27, 2018 10:05:28 AM inductivecep.eval.ExperimentJob execute
+INFO: Real Rule: Rule [win: 20
+Event Constraints: [Event2[(Attribute0 >= 37)], Event0[(Attribute0 >= 25)], Event5[(Attribute0 >= 13)]]
+Sequence Constraints: [[Event2[(Attribute0 >= 37)] --> Event0[(Attribute0 >= 25)]], [Event0[(Attribute0 >= 25)] --> Event5[(Attribute0 >= 13)]]]
+Aggregate Constraints: [[Avg(Event7[].Attribute1)>=34], [Max(Event14[].Attribute1)>=30], [Sum(Event11[].Attribute0)<=42]]]
+Feb 27, 2018 10:05:31 AM inductivecep.eval.ExperimentJob execute
+INFO: Learned Rule: Rule [win: 20
+Event Constraints: [Event5[(Attribute0 >= 1 AND Attribute0 <= 49)], Event2[(Attribute0 <= 49 AND Attribute0 >= 0)], Event0[(Attribute0 <= 49 AND Attribute0 >= 0)], Event7[(Attribute1 <= 50 AND Attribute1 >= 4)]]
+Sequence Constraints: [[Event2[(Attribute0 <= 49 AND Attribute0 >= 0)] --> Event5[(Attribute0 >= 1 AND Attribute0 <= 49)]], [Event2[(Attribute0 <= 49 AND Attribute0 >= 0)] --> Event0[(Attribute0 <= 49 AND Attribute0 >= 0)]], [Event0[(Attribute0 <= 49 AND Attribute0 >= 0)] --> Event5[(Attribute0 >= 1 AND Attribute0 <= 49)]]]]
+Feb 27, 2018 10:05:31 AM inductivecep.eval.ExperimentJob evaluateLearnedRule
+INFO: Real Events=4007, Detected Events=15284, False Positives=11277, False Negatives=0, Precision=0.2621695891127977, Recall=1.0
+Feb 27, 2018 10:05:31 AM inductivecep.eval.ExperimentJob getSynthacticDifferencesBetweenRules
+INFO: SyntacticDifferenceStatistics [typeDistance=2.0, attributeDistance=1.0, predicateDistance=0.3723985845427971, winDistance=0.0, parameterDistance=0.0, aggregateDistance=3.0, sequenceDistance=5.0, negationDistance=0.0]
+java.io.FileNotFoundException: /Volumes/RamDisk/Results/filename_123457 (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at inductivecep.eval.ExperimentJob.execute(ExperimentJob.java:101)
+	at predgen.launch.Runner.body(Runner.java:413)
+	at predgen.launch.Runner.execute(Runner.java:471)
+	at predgen.launch.LaunchC50.main(LaunchC50.java:63)
+java.io.FileNotFoundException: /Volumes/RamDisk/Results/filename_Log_123457 (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at inductivecep.eval.ExperimentJob.execute(ExperimentJob.java:112)
+	at predgen.launch.Runner.body(Runner.java:413)
+	at predgen.launch.Runner.execute(Runner.java:471)
+	at predgen.launch.LaunchC50.main(LaunchC50.java:63)
+java.io.FileNotFoundException: /Volumes/RamDisk/Results/filename_Syntactic_123457 (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at inductivecep.eval.ExperimentJob.execute(ExperimentJob.java:123)
+	at predgen.launch.Runner.body(Runner.java:413)
+	at predgen.launch.Runner.execute(Runner.java:471)
+	at predgen.launch.LaunchC50.main(LaunchC50.java:63)
+Feb 27, 2018 10:06:42 AM predgen.launch.Runner body
+INFO: Listing All Rules (Including complex ones)
+Feb 27, 2018 10:06:42 AM predgen.launch.Runner body
+INFO: Rule [win: 20
+Event Constraints: [Event0[(Attribute0 <= 21)], Event6[(Attribute0 >= 12)], Event7[(Attribute0 <= 4)]]
+Sequence Constraints: [[Event6[(Attribute0 >= 12)] --> Event7[(Attribute0 <= 4)]], [Event0[(Attribute0 <= 21)] --> Event6[(Attribute0 >= 12)]]]
+Aggregate Constraints: [[Max(Event11[].Attribute0)<=41], [Sum(Event4[].Attribute0)<=31], [Max(Event3[].Attribute1)>=21], [Sum(Event5[].Attribute0)>=27], [Max(Event8[].Attribute1)<=31]]]
+Feb 27, 2018 10:07:17 AM predgen.launch.Runner body
+INFO: DataFile Printed
+Feb 27, 2018 10:18:38 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=0| k=0
+Feb 27, 2018 10:18:38 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1254, Detected Events=1513, False Positives=259, False Negatives=0, Precision=0.8288169200264376, Recall=1.0F1 Measure=0.906396819660282
+Feb 27, 2018 10:29:53 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=0| k=2
+Feb 27, 2018 10:29:53 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1254, Detected Events=1342, False Positives=88, False Negatives=0, Precision=0.9344262295081968, Recall=1.0F1 Measure=0.9661016949152543
+Feb 27, 2018 10:40:45 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=0| k=4
+Feb 27, 2018 10:40:45 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1254, Detected Events=1321, False Positives=67, False Negatives=0, Precision=0.9492808478425435, Recall=1.0F1 Measure=0.9739805825242718
+Feb 27, 2018 10:52:22 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=0| k=6
+Feb 27, 2018 10:52:22 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1254, Detected Events=1276, False Positives=22, False Negatives=0, Precision=0.9827586206896551, Recall=1.0F1 Measure=0.9913043478260869
+Feb 27, 2018 11:03:11 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=0| k=8
+Feb 27, 2018 11:03:11 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1254, Detected Events=1272, False Positives=18, False Negatives=0, Precision=0.9858490566037735, Recall=1.0F1 Measure=0.9928741092636578
+Feb 27, 2018 11:13:53 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=0| k=10
+Feb 27, 2018 11:13:53 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1254, Detected Events=1268, False Positives=14, False Negatives=0, Precision=0.9889589905362776, Recall=1.0F1 Measure=0.9944488501189531
+Feb 27, 2018 11:23:54 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=0| k=12
+Feb 27, 2018 11:23:54 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1254, Detected Events=1268, False Positives=14, False Negatives=0, Precision=0.9889589905362776, Recall=1.0F1 Measure=0.9944488501189531
+Feb 27, 2018 11:35:25 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=0| k=14
+Feb 27, 2018 11:35:25 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1254, Detected Events=1267, False Positives=13, False Negatives=0, Precision=0.98973954222573, Recall=1.0F1 Measure=0.9948433161443871
+Feb 27, 2018 11:46:10 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=0| k=16
+Feb 27, 2018 11:46:10 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1254, Detected Events=1267, False Positives=13, False Negatives=0, Precision=0.98973954222573, Recall=1.0F1 Measure=0.9948433161443871
+Feb 27, 2018 11:57:14 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=0| k=18
+Feb 27, 2018 11:57:14 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1254, Detected Events=1268, False Positives=14, False Negatives=0, Precision=0.9889589905362776, Recall=1.0F1 Measure=0.9944488501189531
+Feb 27, 2018 12:07:53 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=0
+Feb 27, 2018 12:07:53 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1254, Detected Events=1473, False Positives=219, False Negatives=0, Precision=0.8513238289205702, Recall=1.0F1 Measure=0.9196919691969196
+Feb 27, 2018 12:19:03 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=2
+Feb 27, 2018 12:19:03 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1254, Detected Events=1383, False Positives=129, False Negatives=0, Precision=0.9067245119305857, Recall=1.0F1 Measure=0.9510807736063709
+Feb 27, 2018 12:29:27 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=4
+Feb 27, 2018 12:29:27 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1254, Detected Events=1300, False Positives=46, False Negatives=0, Precision=0.9646153846153847, Recall=1.0F1 Measure=0.9819890368050118
+Feb 27, 2018 12:40:39 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=6
+Feb 27, 2018 12:40:39 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1254, Detected Events=1279, False Positives=25, False Negatives=0, Precision=0.980453479280688, Recall=1.0F1 Measure=0.9901302803000395
+Feb 27, 2018 12:51:33 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=8
+Feb 27, 2018 12:51:33 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1254, Detected Events=1279, False Positives=25, False Negatives=0, Precision=0.980453479280688, Recall=1.0F1 Measure=0.9901302803000395
+Feb 27, 2018 1:02:35 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=10
+Feb 27, 2018 1:02:35 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1254, Detected Events=1269, False Positives=15, False Negatives=0, Precision=0.9881796690307328, Recall=1.0F1 Measure=0.9940546967895363
+Feb 27, 2018 1:12:27 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=12
+Feb 27, 2018 1:12:27 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1254, Detected Events=1268, False Positives=14, False Negatives=0, Precision=0.9889589905362776, Recall=1.0F1 Measure=0.9944488501189531
+Feb 27, 2018 1:22:56 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=14
+Feb 27, 2018 1:22:56 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1254, Detected Events=1268, False Positives=14, False Negatives=0, Precision=0.9889589905362776, Recall=1.0F1 Measure=0.9944488501189531
+Feb 27, 2018 1:34:33 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=16
+Feb 27, 2018 1:34:33 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1254, Detected Events=1266, False Positives=12, False Negatives=0, Precision=0.990521327014218, Recall=1.0F1 Measure=0.9952380952380951
+Feb 27, 2018 1:45:04 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=18
+Feb 27, 2018 1:45:04 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1254, Detected Events=1266, False Positives=12, False Negatives=0, Precision=0.990521327014218, Recall=1.0F1 Measure=0.9952380952380951
+Feb 27, 2018 1:56:28 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=20
+Feb 27, 2018 1:56:28 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1254, Detected Events=1267, False Positives=13, False Negatives=0, Precision=0.98973954222573, Recall=1.0F1 Measure=0.9948433161443871
+Feb 27, 2018 2:07:43 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=0
+Feb 27, 2018 2:07:43 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1254, Detected Events=1553, False Positives=299, False Negatives=0, Precision=0.8074694140373471, Recall=1.0F1 Measure=0.8934805842536516
+Feb 27, 2018 2:19:24 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=2
+Feb 27, 2018 2:19:24 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1254, Detected Events=1426, False Positives=172, False Negatives=0, Precision=0.879382889200561, Recall=1.0F1 Measure=0.9358208955223881
+Feb 27, 2018 2:31:02 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=4
+Feb 27, 2018 2:31:02 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1254, Detected Events=1363, False Positives=109, False Negatives=0, Precision=0.9200293470286134, Recall=1.0F1 Measure=0.9583492548719909
+Feb 27, 2018 2:43:42 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=6
+Feb 27, 2018 2:43:42 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1254, Detected Events=1347, False Positives=93, False Negatives=0, Precision=0.9309576837416481, Recall=1.0F1 Measure=0.964244521337947
+Feb 27, 2018 2:55:21 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=8
+Feb 27, 2018 2:55:21 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1254, Detected Events=1328, False Positives=74, False Negatives=0, Precision=0.9442771084337349, Recall=1.0F1 Measure=0.9713400464756003
+Feb 27, 2018 3:07:12 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=10
+Feb 27, 2018 3:07:12 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1254, Detected Events=1317, False Positives=63, False Negatives=0, Precision=0.9521640091116174, Recall=1.0F1 Measure=0.9754959159859976
+Feb 27, 2018 3:18:41 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=12
+Feb 27, 2018 3:18:41 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1254, Detected Events=1303, False Positives=49, False Negatives=0, Precision=0.9623944742900997, Recall=1.0F1 Measure=0.9808369182635901
+Feb 27, 2018 3:29:06 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=14
+Feb 27, 2018 3:29:06 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1254, Detected Events=1306, False Positives=52, False Negatives=0, Precision=0.9601837672281777, Recall=1.0F1 Measure=0.9796875
+EstimatedCost: 15.333333015441895
+Feb 27, 2018 3:29:34 PM predgen.launch.Runner body
+INFO: TestFile Printed
+Feb 27, 2018 3:30:19 PM predgen.launch.Runner body
+INFO: RULE[1]-FINAL
+Feb 27, 2018 3:30:24 PM predgen.launch.Runner body
+INFO: Real Events=3753, Detected Events=5255, False Positives=1507, False Negatives=5, Precision=0.7132254995242626, Recall=0.9986677324806821F1 Measure=0.8321492007104796
+Feb 27, 2018 3:30:24 PM predgen.launch.Runner body
+INFO: Real Events=43185, Detected Events=49758, False Positives=6578, False Negatives=5, Precision=0.867800152739258, Recall=0.9998842190575431F1 Measure=0.9291716428348558
+Feb 27, 2018 3:30:52 PM predgen.launch.Runner body
+INFO: RULE[1]-ORIGINAL
+Feb 27, 2018 3:30:56 PM predgen.launch.Runner body
+INFO: Real Events=3753, Detected Events=6872, False Positives=3119, False Negatives=0, Precision=0.5461292200232829, Recall=1.0F1 Measure=0.7064470588235294
+Feb 27, 2018 3:30:56 PM predgen.launch.Runner body
+INFO: Real Events=3753, Detected Events=6872, False Positives=3119, False Negatives=0, Precision=0.5461292200232829, Recall=1.0F1 Measure=0.7064470588235294
+Feb 27, 2018 3:30:56 PM inductivecep.eval.ExperimentJob execute
+INFO: Real Rule: Rule [win: 20
+Event Constraints: [Event0[(Attribute0 <= 21)], Event6[(Attribute0 >= 12)], Event7[(Attribute0 <= 4)]]
+Sequence Constraints: [[Event0[(Attribute0 <= 21)] --> Event6[(Attribute0 >= 12)]], [Event6[(Attribute0 >= 12)] --> Event7[(Attribute0 <= 4)]]]
+Aggregate Constraints: [[Max(Event11[].Attribute0)<=41], [Sum(Event4[].Attribute0)<=31], [Max(Event3[].Attribute1)>=21], [Sum(Event5[].Attribute0)>=27], [Max(Event8[].Attribute1)<=31]]]
+Feb 27, 2018 3:31:00 PM inductivecep.eval.ExperimentJob execute
+INFO: Learned Rule: Rule [win: 20
+Event Constraints: [Event6[(Attribute0 <= 49 AND Attribute0 >= 0)], Event11[(Attribute0 >= 0 AND Attribute0 <= 41)], Event0[(Attribute0 <= 49 AND Attribute0 >= 0)], Event7[(Attribute0 <= 49 AND Attribute0 >= 0)]]
+Sequence Constraints: [[Event6[(Attribute0 <= 49 AND Attribute0 >= 0)] --> Event7[(Attribute0 <= 49 AND Attribute0 >= 0)]], [Event0[(Attribute0 <= 49 AND Attribute0 >= 0)] --> Event6[(Attribute0 <= 49 AND Attribute0 >= 0)]], [Event0[(Attribute0 <= 49 AND Attribute0 >= 0)] --> Event7[(Attribute0 <= 49 AND Attribute0 >= 0)]]]]
+Feb 27, 2018 3:31:00 PM inductivecep.eval.ExperimentJob evaluateLearnedRule
+INFO: Real Events=5425, Detected Events=16322, False Positives=10897, False Negatives=0, Precision=0.3323734836417106, Recall=1.0
+Feb 27, 2018 3:31:00 PM inductivecep.eval.ExperimentJob getSynthacticDifferencesBetweenRules
+INFO: SyntacticDifferenceStatistics [typeDistance=4.0, attributeDistance=1.0, predicateDistance=0.46616063037663563, winDistance=0.0, parameterDistance=0.0, aggregateDistance=5.0, sequenceDistance=5.0, negationDistance=0.0]
+java.io.FileNotFoundException: /Volumes/RamDisk/Results/filename_123458 (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at inductivecep.eval.ExperimentJob.execute(ExperimentJob.java:101)
+	at predgen.launch.Runner.body(Runner.java:413)
+	at predgen.launch.Runner.execute(Runner.java:471)
+	at predgen.launch.LaunchC50.main(LaunchC50.java:63)
+java.io.FileNotFoundException: /Volumes/RamDisk/Results/filename_Log_123458 (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at inductivecep.eval.ExperimentJob.execute(ExperimentJob.java:112)
+	at predgen.launch.Runner.body(Runner.java:413)
+	at predgen.launch.Runner.execute(Runner.java:471)
+	at predgen.launch.LaunchC50.main(LaunchC50.java:63)
+java.io.FileNotFoundException: /Volumes/RamDisk/Results/filename_Syntactic_123458 (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at inductivecep.eval.ExperimentJob.execute(ExperimentJob.java:123)
+	at predgen.launch.Runner.body(Runner.java:413)
+	at predgen.launch.Runner.execute(Runner.java:471)
+	at predgen.launch.LaunchC50.main(LaunchC50.java:63)
+Feb 27, 2018 3:31:56 PM predgen.launch.Runner body
+INFO: Listing All Rules (Including complex ones)
+Feb 27, 2018 3:31:56 PM predgen.launch.Runner body
+INFO: Rule [win: 20
+Event Constraints: [Event3[(Attribute0 <= 9)], Event2[(Attribute0 = 49)], Event12[(Attribute0 >= 49)]]
+Sequence Constraints: [[Event3[(Attribute0 <= 9)] --> Event2[(Attribute0 = 49)]], [Event2[(Attribute0 = 49)] --> Event12[(Attribute0 >= 49)]]]
+Aggregate Constraints: [[Max(Event6[].Attribute1)>=29], [Min(Event14[].Attribute1)>=40]]]
+Feb 27, 2018 3:32:00 PM predgen.launch.Runner body
+INFO: DataFile Printed
+Feb 27, 2018 3:38:03 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=0| k=0
+Feb 27, 2018 3:38:03 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=833, Detected Events=837, False Positives=4, False Negatives=0, Precision=0.995221027479092, Recall=1.0F1 Measure=0.9976047904191617
+Feb 27, 2018 3:43:58 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=0| k=2
+Feb 27, 2018 3:43:58 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=833, Detected Events=833, False Positives=0, False Negatives=0, Precision=1.0, Recall=1.0F1 Measure=1.0
+Feb 27, 2018 3:49:57 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=0
+Feb 27, 2018 3:49:57 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=833, Detected Events=835, False Positives=2, False Negatives=0, Precision=0.9976047904191617, Recall=1.0F1 Measure=0.998800959232614
+Feb 27, 2018 3:55:43 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=2
+Feb 27, 2018 3:55:43 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=833, Detected Events=833, False Positives=0, False Negatives=0, Precision=1.0, Recall=1.0F1 Measure=1.0
+Feb 27, 2018 4:02:14 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=0
+Feb 27, 2018 4:02:14 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=833, Detected Events=936, False Positives=103, False Negatives=0, Precision=0.8899572649572649, Recall=1.0F1 Measure=0.941775014132278
+Feb 27, 2018 4:08:29 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=2
+Feb 27, 2018 4:08:29 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=833, Detected Events=930, False Positives=99, False Negatives=2, Precision=0.8935483870967742, Recall=0.9975990396158463F1 Measure=0.942711287577992
+Feb 27, 2018 4:14:30 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=4
+Feb 27, 2018 4:14:30 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=833, Detected Events=927, False Positives=97, False Negatives=3, Precision=0.895361380798274, Recall=0.9963985594237695F1 Measure=0.9431818181818182
+Feb 27, 2018 4:20:50 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=6
+Feb 27, 2018 4:20:50 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=833, Detected Events=930, False Positives=99, False Negatives=2, Precision=0.8935483870967742, Recall=0.9975990396158463F1 Measure=0.942711287577992
+EstimatedCost: 2.6666667461395264
+Feb 27, 2018 4:20:56 PM predgen.launch.Runner body
+INFO: TestFile Printed
+Feb 27, 2018 4:20:58 PM predgen.launch.Runner body
+INFO: RULE[1]-FINAL
+Feb 27, 2018 4:21:01 PM predgen.launch.Runner body
+INFO: Real Events=2444, Detected Events=2685, False Positives=245, False Negatives=4, Precision=0.9087523277467412, Recall=0.9983633387888707F1 Measure=0.951452524858647
+Feb 27, 2018 4:21:01 PM predgen.launch.Runner body
+INFO: Real Events=12861, Detected Events=16618, False Positives=3768, False Negatives=11, Precision=0.7732579131062703, Recall=0.9991447010341342F1 Measure=0.8718070490857899
+Feb 27, 2018 4:21:03 PM predgen.launch.Runner body
+INFO: RULE[1]-ORIGINAL
+Feb 27, 2018 4:21:07 PM predgen.launch.Runner body
+INFO: Real Events=2444, Detected Events=2665, False Positives=222, False Negatives=1, Precision=0.9166979362101313, Recall=0.9995908346972177F1 Measure=0.9563515365042082
+Feb 27, 2018 4:21:07 PM predgen.launch.Runner body
+INFO: Real Events=2444, Detected Events=2665, False Positives=222, False Negatives=1, Precision=0.9166979362101313, Recall=0.9995908346972177F1 Measure=0.9563515365042082
+Feb 27, 2018 4:21:07 PM inductivecep.eval.ExperimentJob execute
+INFO: Real Rule: Rule [win: 20
+Event Constraints: [Event3[(Attribute0 <= 9)], Event2[(Attribute0 = 49)], Event12[(Attribute0 >= 49)]]
+Sequence Constraints: [[Event3[(Attribute0 <= 9)] --> Event2[(Attribute0 = 49)]], [Event2[(Attribute0 = 49)] --> Event12[(Attribute0 >= 49)]]]
+Aggregate Constraints: [[Max(Event6[].Attribute1)>=29], [Min(Event14[].Attribute1)>=40]]]
+Feb 27, 2018 4:21:08 PM inductivecep.eval.ExperimentJob execute
+INFO: Learned Rule: Rule [win: 20
+Event Constraints: [Event2[(Attribute0 = 49)], Event3[(Attribute0 <= 49 AND Attribute0 >= 0)], Event6[(Attribute1 >= 0 AND Attribute1 <= 49)], Event12[(Attribute0 = 49)]]
+Sequence Constraints: [[Event3[(Attribute0 <= 49 AND Attribute0 >= 0)] --> Event2[(Attribute0 = 49)]], [Event3[(Attribute0 <= 49 AND Attribute0 >= 0)] --> Event12[(Attribute0 = 49)]], [Event2[(Attribute0 = 49)] --> Event12[(Attribute0 = 49)]]]]
+Feb 27, 2018 4:21:08 PM inductivecep.eval.ExperimentJob evaluateLearnedRule
+INFO: Real Events=3271, Detected Events=3454, False Positives=183, False Negatives=0, Precision=0.9470179502026635, Recall=1.0
+Feb 27, 2018 4:21:08 PM inductivecep.eval.ExperimentJob getSynthacticDifferencesBetweenRules
+INFO: SyntacticDifferenceStatistics [typeDistance=1.0, attributeDistance=1.0, predicateDistance=0.5501464953797611, winDistance=0.0, parameterDistance=0.0, aggregateDistance=2.0, sequenceDistance=5.0, negationDistance=0.0]
+java.io.FileNotFoundException: /Volumes/RamDisk/Results/filename_123459 (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at inductivecep.eval.ExperimentJob.execute(ExperimentJob.java:101)
+	at predgen.launch.Runner.body(Runner.java:413)
+	at predgen.launch.Runner.execute(Runner.java:471)
+	at predgen.launch.LaunchC50.main(LaunchC50.java:63)
+java.io.FileNotFoundException: /Volumes/RamDisk/Results/filename_Log_123459 (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at inductivecep.eval.ExperimentJob.execute(ExperimentJob.java:112)
+	at predgen.launch.Runner.body(Runner.java:413)
+	at predgen.launch.Runner.execute(Runner.java:471)
+	at predgen.launch.LaunchC50.main(LaunchC50.java:63)
+java.io.FileNotFoundException: /Volumes/RamDisk/Results/filename_Syntactic_123459 (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at inductivecep.eval.ExperimentJob.execute(ExperimentJob.java:123)
+	at predgen.launch.Runner.body(Runner.java:413)
+	at predgen.launch.Runner.execute(Runner.java:471)
+	at predgen.launch.LaunchC50.main(LaunchC50.java:63)
+Feb 27, 2018 4:22:05 PM predgen.launch.Runner body
+INFO: Listing All Rules (Including complex ones)
+Feb 27, 2018 4:22:05 PM predgen.launch.Runner body
+INFO: Rule [win: 20
+Event Constraints: [Event13[(Attribute0 >= 1)], Event14[(Attribute0 <= 41)], Event5[(Attribute0 = 31)]]
+Sequence Constraints: [[Event14[(Attribute0 <= 41)] --> Event5[(Attribute0 = 31)]], [Event13[(Attribute0 >= 1)] --> Event14[(Attribute0 <= 41)]]]
+Aggregate Constraints: [[Min(Event7[].Attribute1)>=25], [Sum(Event1[].Attribute1)=28], [Max(Event12[].Attribute1)=33]]]
+Feb 27, 2018 4:22:12 PM predgen.launch.Runner body
+INFO: DataFile Printed
+Feb 27, 2018 4:28:29 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=0| k=0
+Feb 27, 2018 4:28:29 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=952, Detected Events=1008, False Positives=56, False Negatives=0, Precision=0.9444444444444444, Recall=1.0F1 Measure=0.9714285714285714
+Feb 27, 2018 4:34:24 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=0| k=2
+Feb 27, 2018 4:34:24 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=952, Detected Events=969, False Positives=17, False Negatives=0, Precision=0.9824561403508771, Recall=1.0F1 Measure=0.9911504424778761
+Feb 27, 2018 4:40:16 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=0| k=4
+Feb 27, 2018 4:40:16 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=952, Detected Events=956, False Positives=4, False Negatives=0, Precision=0.99581589958159, Recall=1.0F1 Measure=0.9979035639412999
+Feb 27, 2018 4:46:19 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=0| k=6
+Feb 27, 2018 4:46:19 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=952, Detected Events=956, False Positives=4, False Negatives=0, Precision=0.99581589958159, Recall=1.0F1 Measure=0.9979035639412999
+Feb 27, 2018 4:52:15 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=0| k=8
+Feb 27, 2018 4:52:15 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=952, Detected Events=957, False Positives=5, False Negatives=0, Precision=0.9947753396029259, Recall=1.0F1 Measure=0.9973808276584599
+Feb 27, 2018 4:58:08 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=0
+Feb 27, 2018 4:58:08 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=952, Detected Events=991, False Positives=39, False Negatives=0, Precision=0.9606458123107972, Recall=1.0F1 Measure=0.9799279464745239
+Feb 27, 2018 5:04:11 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=2
+Feb 27, 2018 5:04:11 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=952, Detected Events=967, False Positives=15, False Negatives=0, Precision=0.984488107549121, Recall=1.0F1 Measure=0.9921834288692027
+Feb 27, 2018 5:10:03 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=4
+Feb 27, 2018 5:10:03 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=952, Detected Events=960, False Positives=8, False Negatives=0, Precision=0.9916666666666667, Recall=1.0F1 Measure=0.99581589958159
+Feb 27, 2018 5:16:14 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=6
+Feb 27, 2018 5:16:14 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=952, Detected Events=959, False Positives=7, False Negatives=0, Precision=0.9927007299270073, Recall=1.0F1 Measure=0.9963369963369962
+Feb 27, 2018 5:22:12 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=8
+Feb 27, 2018 5:22:12 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=952, Detected Events=958, False Positives=6, False Negatives=0, Precision=0.9937369519832986, Recall=1.0F1 Measure=0.9968586387434555
+Feb 27, 2018 5:28:07 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=10
+Feb 27, 2018 5:28:07 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=952, Detected Events=957, False Positives=5, False Negatives=0, Precision=0.9947753396029259, Recall=1.0F1 Measure=0.9973808276584599
+Feb 27, 2018 5:34:04 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=12
+Feb 27, 2018 5:34:04 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=952, Detected Events=956, False Positives=4, False Negatives=0, Precision=0.99581589958159, Recall=1.0F1 Measure=0.9979035639412999
+Feb 27, 2018 5:40:11 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=14
+Feb 27, 2018 5:40:11 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=952, Detected Events=954, False Positives=5, False Negatives=3, Precision=0.9947589098532494, Recall=0.9968487394957983F1 Measure=0.9958027282266527
+Feb 27, 2018 5:46:41 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=0
+Feb 27, 2018 5:46:41 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=952, Detected Events=1005, False Positives=53, False Negatives=0, Precision=0.9472636815920398, Recall=1.0F1 Measure=0.972917731221257
+Feb 27, 2018 5:53:01 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=2
+Feb 27, 2018 5:53:01 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=952, Detected Events=980, False Positives=28, False Negatives=0, Precision=0.9714285714285714, Recall=1.0F1 Measure=0.9855072463768115
+Feb 27, 2018 5:59:35 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=4
+Feb 27, 2018 5:59:35 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=952, Detected Events=966, False Positives=14, False Negatives=0, Precision=0.9855072463768116, Recall=1.0F1 Measure=0.9927007299270074
+Feb 27, 2018 6:05:55 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=6
+Feb 27, 2018 6:05:55 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=952, Detected Events=962, False Positives=10, False Negatives=0, Precision=0.9896049896049897, Recall=1.0F1 Measure=0.9947753396029259
+Feb 27, 2018 6:12:17 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=8
+Feb 27, 2018 6:12:17 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=952, Detected Events=958, False Positives=6, False Negatives=0, Precision=0.9937369519832986, Recall=1.0F1 Measure=0.9968586387434555
+Feb 27, 2018 6:18:08 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=10
+Feb 27, 2018 6:18:08 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=952, Detected Events=962, False Positives=10, False Negatives=0, Precision=0.9896049896049897, Recall=1.0F1 Measure=0.9947753396029259
+EstimatedCost: 8.666666984558105
+Feb 27, 2018 6:18:16 PM predgen.launch.Runner body
+INFO: TestFile Printed
+Feb 27, 2018 6:18:21 PM predgen.launch.Runner body
+INFO: RULE[1]-FINAL
+Feb 27, 2018 6:18:25 PM predgen.launch.Runner body
+INFO: Real Events=2942, Detected Events=3168, False Positives=278, False Negatives=52, Precision=0.9122474747474747, Recall=0.982324949014276F1 Measure=0.9459901800327333
+Feb 27, 2018 6:18:25 PM predgen.launch.Runner body
+INFO: Real Events=23474, Detected Events=24214, False Positives=796, False Negatives=56, Precision=0.9671264557693896, Recall=0.9976143818693022F1 Measure=0.9821338701560142
+Feb 27, 2018 6:18:30 PM predgen.launch.Runner body
+INFO: RULE[1]-ORIGINAL
+Feb 27, 2018 6:18:33 PM predgen.launch.Runner body
+INFO: Real Events=2942, Detected Events=3424, False Positives=507, False Negatives=25, Precision=0.851927570093458, Recall=0.9915023793337865F1 Measure=0.916431039899466
+Feb 27, 2018 6:18:33 PM predgen.launch.Runner body
+INFO: Real Events=2942, Detected Events=3424, False Positives=507, False Negatives=25, Precision=0.851927570093458, Recall=0.9915023793337865F1 Measure=0.916431039899466
+Feb 27, 2018 6:18:33 PM inductivecep.eval.ExperimentJob execute
+INFO: Real Rule: Rule [win: 20
+Event Constraints: [Event13[(Attribute0 >= 1)], Event14[(Attribute0 <= 41)], Event5[(Attribute0 = 31)]]
+Sequence Constraints: [[Event13[(Attribute0 >= 1)] --> Event14[(Attribute0 <= 41)]], [Event14[(Attribute0 <= 41)] --> Event5[(Attribute0 = 31)]]]
+Aggregate Constraints: [[Min(Event7[].Attribute1)>=25], [Sum(Event1[].Attribute1)=28], [Max(Event12[].Attribute1)=33]]]
+Feb 27, 2018 6:18:35 PM inductivecep.eval.ExperimentJob execute
+INFO: Learned Rule: Rule [win: 20
+Event Constraints: [Event5[(Attribute0 = 31)], Event7[(Attribute1 >= 25 AND Attribute1 <= 49)], Event14[(Attribute0 >= 0 AND Attribute0 <= 48)], Event13[(Attribute0 <= 49 AND Attribute0 >= 0)]]
+Sequence Constraints: [[Event13[(Attribute0 <= 49 AND Attribute0 >= 0)] --> Event5[(Attribute0 = 31)]], [Event13[(Attribute0 <= 49 AND Attribute0 >= 0)] --> Event14[(Attribute0 >= 0 AND Attribute0 <= 48)]], [Event14[(Attribute0 >= 0 AND Attribute0 <= 48)] --> Event5[(Attribute0 = 31)]]]]
+Feb 27, 2018 6:18:35 PM inductivecep.eval.ExperimentJob evaluateLearnedRule
+INFO: Real Events=4012, Detected Events=4050, False Positives=38, False Negatives=0, Precision=0.9906172839506173, Recall=1.0
+Feb 27, 2018 6:18:35 PM inductivecep.eval.ExperimentJob getSynthacticDifferencesBetweenRules
+INFO: SyntacticDifferenceStatistics [typeDistance=2.0, attributeDistance=1.0, predicateDistance=0.033019949552854845, winDistance=0.0, parameterDistance=0.0, aggregateDistance=3.0, sequenceDistance=5.0, negationDistance=0.0]
+java.io.FileNotFoundException: /Volumes/RamDisk/Results/filename_123460 (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at inductivecep.eval.ExperimentJob.execute(ExperimentJob.java:101)
+	at predgen.launch.Runner.body(Runner.java:413)
+	at predgen.launch.Runner.execute(Runner.java:471)
+	at predgen.launch.LaunchC50.main(LaunchC50.java:63)
+java.io.FileNotFoundException: /Volumes/RamDisk/Results/filename_Log_123460 (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at inductivecep.eval.ExperimentJob.execute(ExperimentJob.java:112)
+	at predgen.launch.Runner.body(Runner.java:413)
+	at predgen.launch.Runner.execute(Runner.java:471)
+	at predgen.launch.LaunchC50.main(LaunchC50.java:63)
+java.io.FileNotFoundException: /Volumes/RamDisk/Results/filename_Syntactic_123460 (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at inductivecep.eval.ExperimentJob.execute(ExperimentJob.java:123)
+	at predgen.launch.Runner.body(Runner.java:413)
+	at predgen.launch.Runner.execute(Runner.java:471)
+	at predgen.launch.LaunchC50.main(LaunchC50.java:63)
+Feb 27, 2018 6:19:31 PM predgen.launch.Runner body
+INFO: Listing All Rules (Including complex ones)
+Feb 27, 2018 6:19:31 PM predgen.launch.Runner body
+INFO: Rule [win: 20
+Event Constraints: [Event2[(Attribute0 >= 41)], Event10[(Attribute0 <= 30)], Event13[(Attribute0 <= 28)]]
+Sequence Constraints: [[Event2[(Attribute0 >= 41)] --> Event10[(Attribute0 <= 30)]], [Event10[(Attribute0 <= 30)] --> Event13[(Attribute0 <= 28)]]]
+Aggregate Constraints: [[Sum(Event8[].Attribute1)=19], [Sum(Event12[].Attribute1)>=11], [Sum(Event14[].Attribute0)<=17], [Max(Event0[].Attribute1)>=32], [Max(Event11[].Attribute1)<=45]]]
+Feb 27, 2018 6:19:48 PM predgen.launch.Runner body
+INFO: DataFile Printed
+Feb 27, 2018 6:25:08 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=0| k=0
+Feb 27, 2018 6:25:08 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=932, Detected Events=1121, False Positives=189, False Negatives=0, Precision=0.8314005352363961, Recall=1.0F1 Measure=0.9079396005845105
+Feb 27, 2018 6:30:21 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=0| k=2
+Feb 27, 2018 6:30:21 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=932, Detected Events=984, False Positives=52, False Negatives=0, Precision=0.9471544715447154, Recall=1.0F1 Measure=0.9728601252609602
+Feb 27, 2018 6:35:35 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=0| k=4
+Feb 27, 2018 6:35:35 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=932, Detected Events=954, False Positives=22, False Negatives=0, Precision=0.9769392033542977, Recall=1.0F1 Measure=0.9883351007423119
+Feb 27, 2018 6:40:36 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=0| k=6
+Feb 27, 2018 6:40:36 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=932, Detected Events=961, False Positives=30, False Negatives=1, Precision=0.9687825182101977, Recall=0.9989270386266095F1 Measure=0.9836238774432119
+Feb 27, 2018 6:45:45 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=0
+Feb 27, 2018 6:45:45 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=932, Detected Events=1104, False Positives=172, False Negatives=0, Precision=0.8442028985507246, Recall=1.0F1 Measure=0.9155206286836935
+Feb 27, 2018 6:50:59 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=2
+Feb 27, 2018 6:50:59 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=932, Detected Events=967, False Positives=35, False Negatives=0, Precision=0.9638055842812823, Recall=1.0F1 Measure=0.9815692469720906
+Feb 27, 2018 6:56:09 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=4
+Feb 27, 2018 6:56:09 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=932, Detected Events=962, False Positives=31, False Negatives=1, Precision=0.9677754677754677, Recall=0.9989270386266095F1 Measure=0.983104540654699
+Feb 27, 2018 7:01:19 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=6
+Feb 27, 2018 7:01:19 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=932, Detected Events=941, False Positives=10, False Negatives=1, Precision=0.9893730074388948, Recall=0.9989270386266095F1 Measure=0.994127068873465
+Feb 27, 2018 7:06:27 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=8
+Feb 27, 2018 7:06:27 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=932, Detected Events=954, False Positives=23, False Negatives=1, Precision=0.9758909853249476, Recall=0.9989270386266095F1 Measure=0.9872746553552492
+Feb 27, 2018 7:13:46 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=0
+Feb 27, 2018 7:13:46 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=932, Detected Events=1294, False Positives=362, False Negatives=0, Precision=0.7202472952086554, Recall=1.0F1 Measure=0.8373764600179695
+Feb 27, 2018 7:27:34 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=2
+Feb 27, 2018 7:27:34 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=932, Detected Events=1275, False Positives=343, False Negatives=0, Precision=0.7309803921568627, Recall=1.0F1 Measure=0.8445854100589035
+Feb 27, 2018 7:33:54 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=4
+Feb 27, 2018 7:33:54 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=932, Detected Events=1070, False Positives=138, False Negatives=0, Precision=0.8710280373831776, Recall=1.0F1 Measure=0.9310689310689311
+Feb 27, 2018 7:40:43 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=6
+Feb 27, 2018 7:40:43 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=932, Detected Events=1060, False Positives=129, False Negatives=1, Precision=0.8783018867924528, Recall=0.9989270386266095F1 Measure=0.9347389558232931
+Feb 27, 2018 7:47:16 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=8
+Feb 27, 2018 7:47:16 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=932, Detected Events=1036, False Positives=105, False Negatives=1, Precision=0.8986486486486487, Recall=0.9989270386266095F1 Measure=0.9461382113821137
+Feb 27, 2018 7:53:38 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=10
+Feb 27, 2018 7:53:38 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=932, Detected Events=1032, False Positives=101, False Negatives=1, Precision=0.9021317829457365, Recall=0.9989270386266095F1 Measure=0.9480651731160896
+Feb 27, 2018 8:00:08 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=12
+Feb 27, 2018 8:00:08 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=932, Detected Events=1031, False Positives=100, False Negatives=1, Precision=0.9030067895247332, Recall=0.9989270386266095F1 Measure=0.9485481406011208
+Feb 27, 2018 8:06:31 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=14
+Feb 27, 2018 8:06:31 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=932, Detected Events=1031, False Positives=99, False Negatives=0, Precision=0.903976721629486, Recall=1.0F1 Measure=0.9495669893020886
+Feb 27, 2018 8:12:59 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=16
+Feb 27, 2018 8:12:59 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=932, Detected Events=1023, False Positives=91, False Negatives=0, Precision=0.9110459433040078, Recall=1.0F1 Measure=0.9534526854219948
+Feb 27, 2018 8:19:25 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=18
+Feb 27, 2018 8:19:25 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=932, Detected Events=1010, False Positives=81, False Negatives=3, Precision=0.9198019801980198, Recall=0.9967811158798283F1 Measure=0.956745623069001
+Feb 27, 2018 8:25:43 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=20
+Feb 27, 2018 8:25:43 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=932, Detected Events=1004, False Positives=75, False Negatives=3, Precision=0.9252988047808764, Recall=0.9967811158798283F1 Measure=0.9597107438016529
+EstimatedCost: 10.0
+Feb 27, 2018 8:26:00 PM predgen.launch.Runner body
+INFO: TestFile Printed
+Feb 27, 2018 8:28:18 PM predgen.launch.Runner body
+INFO: RULE[1]-FINAL
+Feb 27, 2018 8:28:22 PM predgen.launch.Runner body
+INFO: Real Events=2724, Detected Events=3238, False Positives=541, False Negatives=27, Precision=0.8329215565163681, Recall=0.9900881057268722F1 Measure=0.9047299563904729
+Feb 27, 2018 8:28:22 PM predgen.launch.Runner body
+INFO: Real Events=24306, Detected Events=27476, False Positives=3236, False Negatives=66, Precision=0.8822244868248653, Recall=0.9972846210812145F1 Measure=0.9362326677223746
+Feb 27, 2018 8:29:13 PM predgen.launch.Runner body
+INFO: RULE[1]-ORIGINAL
+Feb 27, 2018 8:29:17 PM predgen.launch.Runner body
+INFO: Real Events=2724, Detected Events=3608, False Positives=901, False Negatives=17, Precision=0.7502771618625277, Recall=0.9937591776798825F1 Measure=0.8550221099178775
+Feb 27, 2018 8:29:17 PM predgen.launch.Runner body
+INFO: Real Events=2724, Detected Events=3608, False Positives=901, False Negatives=17, Precision=0.7502771618625277, Recall=0.9937591776798825F1 Measure=0.8550221099178775
+Feb 27, 2018 8:29:17 PM inductivecep.eval.ExperimentJob execute
+INFO: Real Rule: Rule [win: 20
+Event Constraints: [Event2[(Attribute0 >= 41)], Event10[(Attribute0 <= 30)], Event13[(Attribute0 <= 28)]]
+Sequence Constraints: [[Event2[(Attribute0 >= 41)] --> Event10[(Attribute0 <= 30)]], [Event10[(Attribute0 <= 30)] --> Event13[(Attribute0 <= 28)]]]
+Aggregate Constraints: [[Sum(Event8[].Attribute1)=19], [Sum(Event12[].Attribute1)>=11], [Sum(Event14[].Attribute0)<=17], [Max(Event0[].Attribute1)>=32], [Max(Event11[].Attribute1)<=45]]]
+Feb 27, 2018 8:29:18 PM inductivecep.eval.ExperimentJob execute
+INFO: Learned Rule: Rule [win: 20
+Event Constraints: [Event13[(Attribute0 <= 49 AND Attribute0 >= 0)], Event8[(Attribute1 <= 19 AND Attribute1 >= 0)], Event2[(Attribute0 <= 49 AND Attribute0 >= 0)], Event10[(Attribute0 <= 49 AND Attribute0 >= 0)]]
+Sequence Constraints: [[Event10[(Attribute0 <= 49 AND Attribute0 >= 0)] --> Event13[(Attribute0 <= 49 AND Attribute0 >= 0)]], [Event2[(Attribute0 <= 49 AND Attribute0 >= 0)] --> Event10[(Attribute0 <= 49 AND Attribute0 >= 0)]], [Event2[(Attribute0 <= 49 AND Attribute0 >= 0)] --> Event13[(Attribute0 <= 49 AND Attribute0 >= 0)]]]]
+Feb 27, 2018 8:29:19 PM inductivecep.eval.ExperimentJob evaluateLearnedRule
+INFO: Real Events=4152, Detected Events=11036, False Positives=6884, False Negatives=0, Precision=0.3762232693004712, Recall=1.0
+Feb 27, 2018 8:29:19 PM inductivecep.eval.ExperimentJob getSynthacticDifferencesBetweenRules
+INFO: SyntacticDifferenceStatistics [typeDistance=4.0, attributeDistance=1.0, predicateDistance=0.41245717762522655, winDistance=0.0, parameterDistance=0.0, aggregateDistance=5.0, sequenceDistance=5.0, negationDistance=0.0]
+java.io.FileNotFoundException: /Volumes/RamDisk/Results/filename_123461 (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at inductivecep.eval.ExperimentJob.execute(ExperimentJob.java:101)
+	at predgen.launch.Runner.body(Runner.java:413)
+	at predgen.launch.Runner.execute(Runner.java:471)
+	at predgen.launch.LaunchC50.main(LaunchC50.java:63)
+java.io.FileNotFoundException: /Volumes/RamDisk/Results/filename_Log_123461 (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at inductivecep.eval.ExperimentJob.execute(ExperimentJob.java:112)
+	at predgen.launch.Runner.body(Runner.java:413)
+	at predgen.launch.Runner.execute(Runner.java:471)
+	at predgen.launch.LaunchC50.main(LaunchC50.java:63)
+java.io.FileNotFoundException: /Volumes/RamDisk/Results/filename_Syntactic_123461 (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at inductivecep.eval.ExperimentJob.execute(ExperimentJob.java:123)
+	at predgen.launch.Runner.body(Runner.java:413)
+	at predgen.launch.Runner.execute(Runner.java:471)
+	at predgen.launch.LaunchC50.main(LaunchC50.java:63)
+Feb 27, 2018 8:30:14 PM predgen.launch.Runner body
+INFO: Listing All Rules (Including complex ones)
+Feb 27, 2018 8:30:14 PM predgen.launch.Runner body
+INFO: Rule [win: 20
+Event Constraints: [Event6[(Attribute0 <= 25)], Event14[(Attribute0 = 15)], Event3[(Attribute0 <= 39)]]
+Sequence Constraints: [[Event6[(Attribute0 <= 25)] --> Event14[(Attribute0 = 15)]], [Event14[(Attribute0 = 15)] --> Event3[(Attribute0 <= 39)]]]
+Aggregate Constraints: [[Min(Event1[].Attribute1)<=47], [Min(Event4[].Attribute1)<=12]]]
+Feb 27, 2018 8:30:18 PM predgen.launch.Runner body
+INFO: DataFile Printed
+Feb 27, 2018 8:35:09 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=0| k=0
+Feb 27, 2018 8:35:09 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=885, Detected Events=913, False Positives=28, False Negatives=0, Precision=0.9693318729463308, Recall=1.0F1 Measure=0.9844271412680757
+Feb 27, 2018 8:39:57 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=0| k=2
+Feb 27, 2018 8:39:57 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=885, Detected Events=892, False Positives=7, False Negatives=0, Precision=0.992152466367713, Recall=1.0F1 Measure=0.996060776589758
+Feb 27, 2018 8:44:39 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=0| k=4
+Feb 27, 2018 8:44:39 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=885, Detected Events=890, False Positives=5, False Negatives=0, Precision=0.9943820224719101, Recall=1.0F1 Measure=0.9971830985915493
+Feb 27, 2018 8:49:27 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=0| k=6
+Feb 27, 2018 8:49:27 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=885, Detected Events=889, False Positives=4, False Negatives=0, Precision=0.9955005624296963, Recall=1.0F1 Measure=0.9977452085682074
+Feb 27, 2018 8:54:15 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=0| k=8
+Feb 27, 2018 8:54:15 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=885, Detected Events=888, False Positives=3, False Negatives=0, Precision=0.9966216216216216, Recall=1.0F1 Measure=0.9983079526226735
+Feb 27, 2018 8:58:57 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=0| k=10
+Feb 27, 2018 8:58:57 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=885, Detected Events=888, False Positives=3, False Negatives=0, Precision=0.9966216216216216, Recall=1.0F1 Measure=0.9983079526226735
+Feb 27, 2018 9:03:42 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=0| k=12
+Feb 27, 2018 9:03:42 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=885, Detected Events=887, False Positives=3, False Negatives=1, Precision=0.9966178128523112, Recall=0.9988700564971752F1 Measure=0.997742663656885
+Feb 27, 2018 9:08:32 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=0
+Feb 27, 2018 9:08:32 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=885, Detected Events=931, False Positives=46, False Negatives=0, Precision=0.9505907626208379, Recall=1.0F1 Measure=0.9746696035242292
+Feb 27, 2018 9:13:20 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=2
+Feb 27, 2018 9:13:20 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=885, Detected Events=891, False Positives=6, False Negatives=0, Precision=0.9932659932659933, Recall=1.0F1 Measure=0.9966216216216216
+Feb 27, 2018 9:18:02 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=4
+Feb 27, 2018 9:18:02 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=885, Detected Events=886, False Positives=1, False Negatives=0, Precision=0.9988713318284425, Recall=1.0F1 Measure=0.9994353472614342
+Feb 27, 2018 9:22:49 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=6
+Feb 27, 2018 9:22:49 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=885, Detected Events=886, False Positives=1, False Negatives=0, Precision=0.9988713318284425, Recall=1.0F1 Measure=0.9994353472614342
+Feb 27, 2018 9:27:37 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=8
+Feb 27, 2018 9:27:37 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=885, Detected Events=879, False Positives=0, False Negatives=6, Precision=1.0, Recall=0.9932203389830508F1 Measure=0.9965986394557823
+Feb 27, 2018 9:32:44 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=0
+Feb 27, 2018 9:32:44 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=885, Detected Events=958, False Positives=73, False Negatives=0, Precision=0.9237995824634656, Recall=1.0F1 Measure=0.9603906673901248
+Feb 27, 2018 9:37:41 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=2
+Feb 27, 2018 9:37:41 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=885, Detected Events=921, False Positives=36, False Negatives=0, Precision=0.9609120521172638, Recall=1.0F1 Measure=0.9800664451827242
+Feb 27, 2018 9:42:45 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=4
+Feb 27, 2018 9:42:45 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=885, Detected Events=915, False Positives=30, False Negatives=0, Precision=0.9672131147540983, Recall=1.0F1 Measure=0.9833333333333333
+Feb 27, 2018 9:47:50 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=6
+Feb 27, 2018 9:47:50 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=885, Detected Events=907, False Positives=22, False Negatives=0, Precision=0.9757442116868799, Recall=1.0F1 Measure=0.9877232142857144
+Feb 27, 2018 9:52:54 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=8
+Feb 27, 2018 9:52:54 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=885, Detected Events=906, False Positives=21, False Negatives=0, Precision=0.9768211920529801, Recall=1.0F1 Measure=0.9882747068676717
+Feb 27, 2018 9:57:49 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=10
+Feb 27, 2018 9:57:49 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=885, Detected Events=902, False Positives=17, False Negatives=0, Precision=0.9811529933481153, Recall=1.0F1 Measure=0.9904868494683828
+Feb 27, 2018 10:02:54 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=12
+Feb 27, 2018 10:02:54 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=885, Detected Events=902, False Positives=17, False Negatives=0, Precision=0.9811529933481153, Recall=1.0F1 Measure=0.9904868494683828
+Feb 27, 2018 10:07:58 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=14
+Feb 27, 2018 10:07:58 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=885, Detected Events=901, False Positives=16, False Negatives=0, Precision=0.9822419533851277, Recall=1.0F1 Measure=0.9910414333706608
+Feb 27, 2018 10:13:02 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=16
+Feb 27, 2018 10:13:02 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=885, Detected Events=901, False Positives=16, False Negatives=0, Precision=0.9822419533851277, Recall=1.0F1 Measure=0.9910414333706608
+Feb 27, 2018 10:17:57 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=18
+Feb 27, 2018 10:17:57 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=885, Detected Events=895, False Positives=10, False Negatives=0, Precision=0.9888268156424581, Recall=1.0F1 Measure=0.9943820224719102
+Feb 27, 2018 10:23:02 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=20
+Feb 27, 2018 10:23:02 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=885, Detected Events=895, False Positives=10, False Negatives=0, Precision=0.9888268156424581, Recall=1.0F1 Measure=0.9943820224719102
+EstimatedCost: 12.0
+Feb 27, 2018 10:23:09 PM predgen.launch.Runner body
+INFO: TestFile Printed
+Feb 27, 2018 10:23:13 PM predgen.launch.Runner body
+INFO: RULE[1]-FINAL
+Feb 27, 2018 10:23:16 PM predgen.launch.Runner body
+INFO: Real Events=2775, Detected Events=3036, False Positives=358, False Negatives=97, Precision=0.8820816864295126, Recall=0.9650450450450451F1 Measure=0.9217002237136466
+Feb 27, 2018 10:23:16 PM predgen.launch.Runner body
+INFO: Real Events=25854, Detected Events=27367, False Positives=1634, False Negatives=121, Precision=0.9402930536777871, Recall=0.995319873133751F1 Measure=0.9670242949211778
+Feb 27, 2018 10:23:21 PM predgen.launch.Runner body
+INFO: RULE[1]-ORIGINAL
+Feb 27, 2018 10:23:24 PM predgen.launch.Runner body
+INFO: Real Events=2775, Detected Events=3302, False Positives=655, False Negatives=128, Precision=0.8016353725015143, Recall=0.9538738738738739F1 Measure=0.8711535297021558
+Feb 27, 2018 10:23:24 PM predgen.launch.Runner body
+INFO: Real Events=2775, Detected Events=3302, False Positives=655, False Negatives=128, Precision=0.8016353725015143, Recall=0.9538738738738739F1 Measure=0.8711535297021558
+Feb 27, 2018 10:23:24 PM inductivecep.eval.ExperimentJob execute
+INFO: Real Rule: Rule [win: 20
+Event Constraints: [Event6[(Attribute0 <= 25)], Event14[(Attribute0 = 15)], Event3[(Attribute0 <= 39)]]
+Sequence Constraints: [[Event14[(Attribute0 = 15)] --> Event3[(Attribute0 <= 39)]], [Event6[(Attribute0 <= 25)] --> Event14[(Attribute0 = 15)]]]
+Aggregate Constraints: [[Min(Event1[].Attribute1)<=47], [Min(Event4[].Attribute1)<=12]]]
+Feb 27, 2018 10:23:26 PM inductivecep.eval.ExperimentJob execute
+INFO: Learned Rule: Rule [win: 20
+Event Constraints: [Event1[(Attribute1 >= 0 AND Attribute1 <= 49)], Event14[(Attribute0 = 15)], Event6[(Attribute0 <= 49 AND Attribute0 >= 0)], Event3[(Attribute0 <= 49 AND Attribute0 >= 0)]]
+Sequence Constraints: [[Event6[(Attribute0 <= 49 AND Attribute0 >= 0)] --> Event3[(Attribute0 <= 49 AND Attribute0 >= 0)]], [Event14[(Attribute0 = 15)] --> Event3[(Attribute0 <= 49 AND Attribute0 >= 0)]], [Event6[(Attribute0 <= 49 AND Attribute0 >= 0)] --> Event14[(Attribute0 = 15)]]]]
+Feb 27, 2018 10:23:26 PM inductivecep.eval.ExperimentJob evaluateLearnedRule
+INFO: Real Events=3602, Detected Events=3780, False Positives=178, False Negatives=0, Precision=0.9529100529100529, Recall=1.0
+Feb 27, 2018 10:23:26 PM inductivecep.eval.ExperimentJob getSynthacticDifferencesBetweenRules
+INFO: SyntacticDifferenceStatistics [typeDistance=1.0, attributeDistance=1.0, predicateDistance=0.145986895986896, winDistance=0.0, parameterDistance=0.0, aggregateDistance=2.0, sequenceDistance=5.0, negationDistance=0.0]
+java.io.FileNotFoundException: /Volumes/RamDisk/Results/filename_123462 (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at inductivecep.eval.ExperimentJob.execute(ExperimentJob.java:101)
+	at predgen.launch.Runner.body(Runner.java:413)
+	at predgen.launch.Runner.execute(Runner.java:471)
+	at predgen.launch.LaunchC50.main(LaunchC50.java:63)
+java.io.FileNotFoundException: /Volumes/RamDisk/Results/filename_Log_123462 (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at inductivecep.eval.ExperimentJob.execute(ExperimentJob.java:112)
+	at predgen.launch.Runner.body(Runner.java:413)
+	at predgen.launch.Runner.execute(Runner.java:471)
+	at predgen.launch.LaunchC50.main(LaunchC50.java:63)
+java.io.FileNotFoundException: /Volumes/RamDisk/Results/filename_Syntactic_123462 (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at inductivecep.eval.ExperimentJob.execute(ExperimentJob.java:123)
+	at predgen.launch.Runner.body(Runner.java:413)
+	at predgen.launch.Runner.execute(Runner.java:471)
+	at predgen.launch.LaunchC50.main(LaunchC50.java:63)
+Feb 27, 2018 10:24:21 PM predgen.launch.Runner body
+INFO: Listing All Rules (Including complex ones)
+Feb 27, 2018 10:24:21 PM predgen.launch.Runner body
+INFO: Rule [win: 20
+Event Constraints: [Event10[(Attribute0 = 13)], Event6[(Attribute0 >= 2)], Event1[(Attribute0 <= 35)]]
+Sequence Constraints: [[Event10[(Attribute0 = 13)] --> Event6[(Attribute0 >= 2)]], [Event6[(Attribute0 >= 2)] --> Event1[(Attribute0 <= 35)]]]
+Aggregate Constraints: [[Sum(Event4[].Attribute1)<=3], [Avg(Event5[].Attribute1)<=21], [Avg(Event8[].Attribute1)<=0]]]
+Feb 27, 2018 10:24:26 PM predgen.launch.Runner body
+INFO: DataFile Printed
+Feb 27, 2018 10:29:13 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=0| k=0
+Feb 27, 2018 10:29:13 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=935, Detected Events=957, False Positives=22, False Negatives=0, Precision=0.9770114942528736, Recall=1.0F1 Measure=0.9883720930232558
+Feb 27, 2018 10:33:50 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=0| k=2
+Feb 27, 2018 10:33:50 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=935, Detected Events=945, False Positives=10, False Negatives=0, Precision=0.9894179894179894, Recall=1.0F1 Measure=0.9946808510638299
+Feb 27, 2018 10:38:34 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=0| k=4
+Feb 27, 2018 10:38:34 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=935, Detected Events=935, False Positives=0, False Negatives=0, Precision=1.0, Recall=1.0F1 Measure=1.0
+Feb 27, 2018 10:43:18 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=0
+Feb 27, 2018 10:43:18 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=935, Detected Events=964, False Positives=29, False Negatives=0, Precision=0.9699170124481328, Recall=1.0F1 Measure=0.9847288046340178
+Feb 27, 2018 10:48:02 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=2
+Feb 27, 2018 10:48:02 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=935, Detected Events=948, False Positives=13, False Negatives=0, Precision=0.9862869198312236, Recall=1.0F1 Measure=0.9930961232076474
+Feb 27, 2018 10:52:37 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=4
+Feb 27, 2018 10:52:37 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=935, Detected Events=937, False Positives=2, False Negatives=0, Precision=0.9978655282817502, Recall=1.0F1 Measure=0.9989316239316238
+Feb 27, 2018 10:57:17 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=6
+Feb 27, 2018 10:57:17 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=935, Detected Events=937, False Positives=2, False Negatives=0, Precision=0.9978655282817502, Recall=1.0F1 Measure=0.9989316239316238
+Feb 27, 2018 11:01:59 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=8
+Feb 27, 2018 11:01:59 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=935, Detected Events=932, False Positives=2, False Negatives=5, Precision=0.9978540772532188, Recall=0.9946524064171123F1 Measure=0.9962506695232994
+Feb 27, 2018 11:07:01 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=0
+Feb 27, 2018 11:07:01 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=935, Detected Events=954, False Positives=19, False Negatives=0, Precision=0.980083857442348, Recall=1.0F1 Measure=0.9899417681312864
+Feb 27, 2018 11:11:57 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=2
+Feb 27, 2018 11:11:57 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=935, Detected Events=950, False Positives=15, False Negatives=0, Precision=0.9842105263157894, Recall=1.0F1 Measure=0.9920424403183024
+Feb 27, 2018 11:16:44 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=4
+Feb 27, 2018 11:16:44 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=935, Detected Events=940, False Positives=5, False Negatives=0, Precision=0.9946808510638298, Recall=1.0F1 Measure=0.9973333333333333
+Feb 27, 2018 11:21:42 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=6
+Feb 27, 2018 11:21:42 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=935, Detected Events=940, False Positives=5, False Negatives=0, Precision=0.9946808510638298, Recall=1.0F1 Measure=0.9973333333333333
+Feb 27, 2018 11:26:45 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=8
+Feb 27, 2018 11:26:45 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=935, Detected Events=938, False Positives=3, False Negatives=0, Precision=0.9968017057569296, Recall=1.0F1 Measure=0.998398291510945
+Feb 27, 2018 11:31:48 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=10
+Feb 27, 2018 11:31:48 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=935, Detected Events=936, False Positives=1, False Negatives=0, Precision=0.9989316239316239, Recall=1.0F1 Measure=0.9994655264564404
+Feb 27, 2018 11:36:42 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=12
+Feb 27, 2018 11:36:42 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=935, Detected Events=937, False Positives=2, False Negatives=0, Precision=0.9978655282817502, Recall=1.0F1 Measure=0.9989316239316238
+EstimatedCost: 6.666666507720947
+Feb 27, 2018 11:36:49 PM predgen.launch.Runner body
+INFO: TestFile Printed
+Feb 27, 2018 11:36:52 PM predgen.launch.Runner body
+INFO: RULE[1]-FINAL
+Feb 27, 2018 11:36:55 PM predgen.launch.Runner body
+INFO: Real Events=2786, Detected Events=2858, False Positives=82, False Negatives=10, Precision=0.9713086074177747, Recall=0.9964106245513281F1 Measure=0.9836995038979448
+Feb 27, 2018 11:36:55 PM predgen.launch.Runner body
+INFO: Real Events=19586, Detected Events=20310, False Positives=867, False Negatives=143, Precision=0.9573116691285081, Recall=0.9926988665373225F1 Measure=0.9746841788650491
+Feb 27, 2018 11:36:58 PM predgen.launch.Runner body
+INFO: RULE[1]-ORIGINAL
+Feb 27, 2018 11:37:02 PM predgen.launch.Runner body
+INFO: Real Events=2786, Detected Events=2936, False Positives=159, False Negatives=9, Precision=0.9458446866485014, Recall=0.9967695620961953F1 Measure=0.9706396364907375
+Feb 27, 2018 11:37:02 PM predgen.launch.Runner body
+INFO: Real Events=2786, Detected Events=2936, False Positives=159, False Negatives=9, Precision=0.9458446866485014, Recall=0.9967695620961953F1 Measure=0.9706396364907375
+Feb 27, 2018 11:37:02 PM inductivecep.eval.ExperimentJob execute
+INFO: Real Rule: Rule [win: 20
+Event Constraints: [Event10[(Attribute0 = 13)], Event6[(Attribute0 >= 2)], Event1[(Attribute0 <= 35)]]
+Sequence Constraints: [[Event6[(Attribute0 >= 2)] --> Event1[(Attribute0 <= 35)]], [Event10[(Attribute0 = 13)] --> Event6[(Attribute0 >= 2)]]]
+Aggregate Constraints: [[Sum(Event4[].Attribute1)<=3], [Avg(Event5[].Attribute1)<=21], [Avg(Event8[].Attribute1)<=0]]]
+Feb 27, 2018 11:37:03 PM inductivecep.eval.ExperimentJob execute
+INFO: Learned Rule: Rule [win: 20
+Event Constraints: [Event10[(Attribute0 = 13)], Event4[(Attribute1 <= 3 AND Attribute1 >= 0)], Event1[(Attribute0 <= 49 AND Attribute0 >= 0)], Event6[(Attribute0 <= 49 AND Attribute0 >= 0)]]
+Sequence Constraints: [[Event10[(Attribute0 = 13)] --> Event1[(Attribute0 <= 49 AND Attribute0 >= 0)]], [Event10[(Attribute0 = 13)] --> Event6[(Attribute0 <= 49 AND Attribute0 >= 0)]], [Event6[(Attribute0 <= 49 AND Attribute0 >= 0)] --> Event1[(Attribute0 <= 49 AND Attribute0 >= 0)]]]]
+Feb 27, 2018 11:37:03 PM inductivecep.eval.ExperimentJob evaluateLearnedRule
+INFO: Real Events=3858, Detected Events=3929, False Positives=71, False Negatives=0, Precision=0.9819292440824637, Recall=1.0
+Feb 27, 2018 11:37:03 PM inductivecep.eval.ExperimentJob getSynthacticDifferencesBetweenRules
+INFO: SyntacticDifferenceStatistics [typeDistance=2.0, attributeDistance=1.0, predicateDistance=0.06586483390607102, winDistance=0.0, parameterDistance=0.0, aggregateDistance=3.0, sequenceDistance=5.0, negationDistance=0.0]
+java.io.FileNotFoundException: /Volumes/RamDisk/Results/filename_123463 (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at inductivecep.eval.ExperimentJob.execute(ExperimentJob.java:101)
+	at predgen.launch.Runner.body(Runner.java:413)
+	at predgen.launch.Runner.execute(Runner.java:471)
+	at predgen.launch.LaunchC50.main(LaunchC50.java:63)
+java.io.FileNotFoundException: /Volumes/RamDisk/Results/filename_Log_123463 (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at inductivecep.eval.ExperimentJob.execute(ExperimentJob.java:112)
+	at predgen.launch.Runner.body(Runner.java:413)
+	at predgen.launch.Runner.execute(Runner.java:471)
+	at predgen.launch.LaunchC50.main(LaunchC50.java:63)
+java.io.FileNotFoundException: /Volumes/RamDisk/Results/filename_Syntactic_123463 (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at inductivecep.eval.ExperimentJob.execute(ExperimentJob.java:123)
+	at predgen.launch.Runner.body(Runner.java:413)
+	at predgen.launch.Runner.execute(Runner.java:471)
+	at predgen.launch.LaunchC50.main(LaunchC50.java:63)
+Feb 27, 2018 11:38:00 PM predgen.launch.Runner body
+INFO: Listing All Rules (Including complex ones)
+Feb 27, 2018 11:38:00 PM predgen.launch.Runner body
+INFO: Rule [win: 20
+Event Constraints: [Event5[(Attribute0 >= 7)], Event7[(Attribute0 = 43)], Event8[(Attribute0 >= 16)]]
+Sequence Constraints: [[Event5[(Attribute0 >= 7)] --> Event7[(Attribute0 = 43)]], [Event7[(Attribute0 = 43)] --> Event8[(Attribute0 >= 16)]]]
+Aggregate Constraints: [[Avg(Event3[].Attribute1)=44], [Max(Event2[].Attribute0)=47], [Max(Event12[].Attribute0)>=49], [Min(Event1[].Attribute0)<=32], [Sum(Event13[].Attribute0)<=22]]]
+Feb 27, 2018 11:38:16 PM predgen.launch.Runner body
+INFO: DataFile Printed
+Feb 27, 2018 11:43:39 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=0| k=0
+Feb 27, 2018 11:43:39 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=878, Detected Events=1067, False Positives=189, False Negatives=0, Precision=0.8228678537956888, Recall=1.0F1 Measure=0.9028277634961439
+Feb 27, 2018 11:48:50 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=0| k=2
+Feb 27, 2018 11:48:50 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=878, Detected Events=925, False Positives=47, False Negatives=0, Precision=0.9491891891891892, Recall=1.0F1 Measure=0.9739323349972268
+Feb 27, 2018 11:53:50 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=0| k=4
+Feb 27, 2018 11:53:50 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=878, Detected Events=930, False Positives=52, False Negatives=0, Precision=0.9440860215053763, Recall=1.0F1 Measure=0.9712389380530974
+Feb 27, 2018 11:58:55 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=0
+Feb 27, 2018 11:58:55 PM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=878, Detected Events=1065, False Positives=187, False Negatives=0, Precision=0.8244131455399061, Recall=1.0F1 Measure=0.9037570766855377
+Feb 28, 2018 12:04:05 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=2
+Feb 28, 2018 12:04:05 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=878, Detected Events=908, False Positives=30, False Negatives=0, Precision=0.9669603524229075, Recall=1.0F1 Measure=0.9832026875699887
+Feb 28, 2018 12:09:14 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=4
+Feb 28, 2018 12:09:14 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=878, Detected Events=907, False Positives=29, False Negatives=0, Precision=0.9680264608599779, Recall=1.0F1 Measure=0.9837535014005603
+Feb 28, 2018 12:14:13 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=6
+Feb 28, 2018 12:14:13 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=878, Detected Events=906, False Positives=28, False Negatives=0, Precision=0.9690949227373068, Recall=1.0F1 Measure=0.9843049327354261
+Feb 28, 2018 12:19:24 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=8
+Feb 28, 2018 12:19:24 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=878, Detected Events=899, False Positives=21, False Negatives=0, Precision=0.9766407119021134, Recall=1.0F1 Measure=0.988182329769274
+Feb 28, 2018 12:24:38 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=10
+Feb 28, 2018 12:24:38 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=878, Detected Events=887, False Positives=9, False Negatives=0, Precision=0.9898534385569335, Recall=1.0F1 Measure=0.9949008498583569
+Feb 28, 2018 12:29:52 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=12
+Feb 28, 2018 12:29:52 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=878, Detected Events=880, False Positives=2, False Negatives=0, Precision=0.9977272727272727, Recall=1.0F1 Measure=0.9988623435722412
+Feb 28, 2018 12:34:52 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=14
+Feb 28, 2018 12:34:52 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=878, Detected Events=880, False Positives=2, False Negatives=0, Precision=0.9977272727272727, Recall=1.0F1 Measure=0.9988623435722412
+Feb 28, 2018 12:39:59 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=16
+Feb 28, 2018 12:39:59 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=878, Detected Events=882, False Positives=4, False Negatives=0, Precision=0.9954648526077098, Recall=1.0F1 Measure=0.9977272727272727
+Feb 28, 2018 12:47:06 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=0
+Feb 28, 2018 12:47:06 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=878, Detected Events=1349, False Positives=472, False Negatives=1, Precision=0.6501111934766494, Recall=0.9988610478359908F1 Measure=0.7876066457117198
+Feb 28, 2018 12:54:01 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=2
+Feb 28, 2018 12:54:01 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=878, Detected Events=1195, False Positives=318, False Negatives=1, Precision=0.7338912133891213, Recall=0.9988610478359908F1 Measure=0.8461167390255667
+Feb 28, 2018 1:02:43 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=4
+Feb 28, 2018 1:02:43 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=878, Detected Events=1072, False Positives=195, False Negatives=1, Precision=0.8180970149253731, Recall=0.9988610478359908F1 Measure=0.8994871794871795
+Feb 28, 2018 1:11:01 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=6
+Feb 28, 2018 1:11:01 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=878, Detected Events=1044, False Positives=167, False Negatives=1, Precision=0.8400383141762452, Recall=0.9988610478359908F1 Measure=0.9125910509885535
+Feb 28, 2018 1:19:02 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=8
+Feb 28, 2018 1:19:02 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=878, Detected Events=1054, False Positives=177, False Negatives=1, Precision=0.8320683111954459, Recall=0.9988610478359908F1 Measure=0.9078674948240165
+EstimatedCost: 7.333333492279053
+Feb 28, 2018 1:19:20 AM predgen.launch.Runner body
+INFO: TestFile Printed
+Feb 28, 2018 1:26:00 AM predgen.launch.Runner body
+INFO: RULE[1]-FINAL
+Feb 28, 2018 1:26:05 AM predgen.launch.Runner body
+INFO: Real Events=2640, Detected Events=3183, False Positives=565, False Negatives=22, Precision=0.8224945020420986, Recall=0.9916666666666667F1 Measure=0.8991928559161945
+Feb 28, 2018 1:26:05 AM predgen.launch.Runner body
+INFO: Real Events=20352, Detected Events=22969, False Positives=2653, False Negatives=36, Precision=0.8844964952762419, Recall=0.9982311320754716F1 Measure=0.937928487338704
+Feb 28, 2018 1:26:24 AM predgen.launch.Runner body
+INFO: RULE[1]-ORIGINAL
+Feb 28, 2018 1:26:28 AM predgen.launch.Runner body
+INFO: Real Events=2640, Detected Events=3306, False Positives=666, False Negatives=0, Precision=0.7985480943738656, Recall=1.0F1 Measure=0.887991927346115
+Feb 28, 2018 1:26:28 AM predgen.launch.Runner body
+INFO: Real Events=2640, Detected Events=3306, False Positives=666, False Negatives=0, Precision=0.7985480943738656, Recall=1.0F1 Measure=0.887991927346115
+Feb 28, 2018 1:26:28 AM inductivecep.eval.ExperimentJob execute
+INFO: Real Rule: Rule [win: 20
+Event Constraints: [Event5[(Attribute0 >= 7)], Event7[(Attribute0 = 43)], Event8[(Attribute0 >= 16)]]
+Sequence Constraints: [[Event7[(Attribute0 = 43)] --> Event8[(Attribute0 >= 16)]], [Event5[(Attribute0 >= 7)] --> Event7[(Attribute0 = 43)]]]
+Aggregate Constraints: [[Avg(Event3[].Attribute1)=44], [Max(Event2[].Attribute0)=47], [Max(Event12[].Attribute0)>=49], [Min(Event1[].Attribute0)<=32], [Sum(Event13[].Attribute0)<=22]]]
+Feb 28, 2018 1:26:30 AM inductivecep.eval.ExperimentJob execute
+INFO: Learned Rule: Rule [win: 20
+Event Constraints: [Event7[(Attribute0 = 43)], Event3[(Attribute1 >= 26 AND Attribute1 <= 50)], Event8[(Attribute0 >= 1 AND Attribute0 <= 49)], Event5[(Attribute0 >= 1 AND Attribute0 <= 49)]]
+Sequence Constraints: [[Event7[(Attribute0 = 43)] --> Event8[(Attribute0 >= 1 AND Attribute0 <= 49)]], [Event5[(Attribute0 >= 1 AND Attribute0 <= 49)] --> Event8[(Attribute0 >= 1 AND Attribute0 <= 49)]], [Event5[(Attribute0 >= 1 AND Attribute0 <= 49)] --> Event7[(Attribute0 = 43)]]]]
+Feb 28, 2018 1:26:30 AM inductivecep.eval.ExperimentJob evaluateLearnedRule
+INFO: Real Events=3987, Detected Events=4995, False Positives=1008, False Negatives=0, Precision=0.7981981981981981, Recall=1.0
+Feb 28, 2018 1:26:30 AM inductivecep.eval.ExperimentJob getSynthacticDifferencesBetweenRules
+INFO: SyntacticDifferenceStatistics [typeDistance=4.0, attributeDistance=1.0, predicateDistance=0.0906816760475297, winDistance=0.0, parameterDistance=0.0, aggregateDistance=5.0, sequenceDistance=5.0, negationDistance=0.0]
+java.io.FileNotFoundException: /Volumes/RamDisk/Results/filename_123464 (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at inductivecep.eval.ExperimentJob.execute(ExperimentJob.java:101)
+	at predgen.launch.Runner.body(Runner.java:413)
+	at predgen.launch.Runner.execute(Runner.java:471)
+	at predgen.launch.LaunchC50.main(LaunchC50.java:63)
+java.io.FileNotFoundException: /Volumes/RamDisk/Results/filename_Log_123464 (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at inductivecep.eval.ExperimentJob.execute(ExperimentJob.java:112)
+	at predgen.launch.Runner.body(Runner.java:413)
+	at predgen.launch.Runner.execute(Runner.java:471)
+	at predgen.launch.LaunchC50.main(LaunchC50.java:63)
+java.io.FileNotFoundException: /Volumes/RamDisk/Results/filename_Syntactic_123464 (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at inductivecep.eval.ExperimentJob.execute(ExperimentJob.java:123)
+	at predgen.launch.Runner.body(Runner.java:413)
+	at predgen.launch.Runner.execute(Runner.java:471)
+	at predgen.launch.LaunchC50.main(LaunchC50.java:63)
+Feb 28, 2018 1:27:25 AM predgen.launch.Runner body
+INFO: Listing All Rules (Including complex ones)
+Feb 28, 2018 1:27:25 AM predgen.launch.Runner body
+INFO: Rule [win: 20
+Event Constraints: [Event8[(Attribute0 >= 45)], Event3[(Attribute0 <= 32)], Event13[(Attribute0 <= 13)]]
+Sequence Constraints: [[Event3[(Attribute0 <= 32)] --> Event13[(Attribute0 <= 13)]], [Event8[(Attribute0 >= 45)] --> Event3[(Attribute0 <= 32)]]]
+Aggregate Constraints: [[Sum(Event0[].Attribute1)=21], [Max(Event7[].Attribute0)<=44]]]
+Feb 28, 2018 1:27:29 AM predgen.launch.Runner body
+INFO: DataFile Printed
+Feb 28, 2018 1:32:12 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=0| k=0
+Feb 28, 2018 1:32:12 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=747, Detected Events=748, False Positives=1, False Negatives=0, Precision=0.9986631016042781, Recall=1.0F1 Measure=0.9993311036789299
+Feb 28, 2018 1:36:56 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=0| k=2
+Feb 28, 2018 1:36:56 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=747, Detected Events=750, False Positives=3, False Negatives=0, Precision=0.996, Recall=1.0F1 Measure=0.9979959919839679
+Feb 28, 2018 1:41:39 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=0
+Feb 28, 2018 1:41:39 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=747, Detected Events=751, False Positives=4, False Negatives=0, Precision=0.9946737683089214, Recall=1.0F1 Measure=0.9973297730307076
+Feb 28, 2018 1:46:12 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=2
+Feb 28, 2018 1:46:12 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=747, Detected Events=750, False Positives=3, False Negatives=0, Precision=0.996, Recall=1.0F1 Measure=0.9979959919839679
+Feb 28, 2018 1:50:54 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=4
+Feb 28, 2018 1:50:54 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=747, Detected Events=747, False Positives=0, False Negatives=0, Precision=1.0, Recall=1.0F1 Measure=1.0
+Feb 28, 2018 1:55:55 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=0
+Feb 28, 2018 1:55:55 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=747, Detected Events=969, False Positives=223, False Negatives=1, Precision=0.7698658410732714, Recall=0.998661311914324F1 Measure=0.8694638694638696
+Feb 28, 2018 2:00:57 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=2
+Feb 28, 2018 2:00:57 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=747, Detected Events=891, False Positives=144, False Negatives=0, Precision=0.8383838383838383, Recall=1.0F1 Measure=0.9120879120879121
+Feb 28, 2018 2:05:46 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=4
+Feb 28, 2018 2:05:46 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=747, Detected Events=864, False Positives=119, False Negatives=2, Precision=0.8622685185185185, Recall=0.9973226238286479F1 Measure=0.924891371818746
+Feb 28, 2018 2:10:48 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=6
+Feb 28, 2018 2:10:48 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=747, Detected Events=808, False Positives=70, False Negatives=9, Precision=0.9133663366336634, Recall=0.9879518072289156F1 Measure=0.9491961414790997
+Feb 28, 2018 2:15:49 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=8
+Feb 28, 2018 2:15:49 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=747, Detected Events=815, False Positives=77, False Negatives=9, Precision=0.905521472392638, Recall=0.9879518072289156F1 Measure=0.9449423815620999
+EstimatedCost: 3.3333332538604736
+Feb 28, 2018 2:15:55 AM predgen.launch.Runner body
+INFO: TestFile Printed
+Feb 28, 2018 2:15:57 AM predgen.launch.Runner body
+INFO: RULE[1]-FINAL
+Feb 28, 2018 2:16:01 AM predgen.launch.Runner body
+INFO: Real Events=2265, Detected Events=2575, False Positives=327, False Negatives=17, Precision=0.8730097087378641, Recall=0.9924944812362031F1 Measure=0.9289256198347108
+Feb 28, 2018 2:16:01 AM predgen.launch.Runner body
+INFO: Real Events=12375, Detected Events=13974, False Positives=1637, False Negatives=38, Precision=0.8828538714755976, Recall=0.9969292929292929F1 Measure=0.9364302250559794
+Feb 28, 2018 2:16:03 AM predgen.launch.Runner body
+INFO: RULE[1]-ORIGINAL
+Feb 28, 2018 2:16:06 AM predgen.launch.Runner body
+INFO: Real Events=2265, Detected Events=2616, False Positives=364, False Negatives=13, Precision=0.8608562691131498, Recall=0.9942604856512142F1 Measure=0.9227617291538619
+Feb 28, 2018 2:16:06 AM predgen.launch.Runner body
+INFO: Real Events=2265, Detected Events=2616, False Positives=364, False Negatives=13, Precision=0.8608562691131498, Recall=0.9942604856512142F1 Measure=0.9227617291538619
+Feb 28, 2018 2:16:06 AM inductivecep.eval.ExperimentJob execute
+INFO: Real Rule: Rule [win: 20
+Event Constraints: [Event8[(Attribute0 >= 45)], Event3[(Attribute0 <= 32)], Event13[(Attribute0 <= 13)]]
+Sequence Constraints: [[Event8[(Attribute0 >= 45)] --> Event3[(Attribute0 <= 32)]], [Event3[(Attribute0 <= 32)] --> Event13[(Attribute0 <= 13)]]]
+Aggregate Constraints: [[Sum(Event0[].Attribute1)=21], [Max(Event7[].Attribute0)<=44]]]
+Feb 28, 2018 2:16:07 AM inductivecep.eval.ExperimentJob execute
+INFO: Learned Rule: Rule [win: 20
+Event Constraints: [Event0[(Attribute1 <= 21 AND Attribute1 >= 0)], Event3[(Attribute0 <= 49 AND Attribute0 >= 0)], Event13[(Attribute0 <= 49 AND Attribute0 >= 0)], Event8[(Attribute0 <= 49 AND Attribute0 >= 0)]]
+Sequence Constraints: [[Event8[(Attribute0 <= 49 AND Attribute0 >= 0)] --> Event3[(Attribute0 <= 49 AND Attribute0 >= 0)]], [Event3[(Attribute0 <= 49 AND Attribute0 >= 0)] --> Event13[(Attribute0 <= 49 AND Attribute0 >= 0)]], [Event8[(Attribute0 <= 49 AND Attribute0 >= 0)] --> Event13[(Attribute0 <= 49 AND Attribute0 >= 0)]]]]
+Feb 28, 2018 2:16:08 AM inductivecep.eval.ExperimentJob evaluateLearnedRule
+INFO: Real Events=2964, Detected Events=10194, False Positives=7230, False Negatives=0, Precision=0.290759270158917, Recall=1.0
+Feb 28, 2018 2:16:08 AM inductivecep.eval.ExperimentJob getSynthacticDifferencesBetweenRules
+INFO: SyntacticDifferenceStatistics [typeDistance=1.0, attributeDistance=1.0, predicateDistance=0.5474578521173504, winDistance=0.0, parameterDistance=0.0, aggregateDistance=2.0, sequenceDistance=5.0, negationDistance=0.0]
+java.io.FileNotFoundException: /Volumes/RamDisk/Results/filename_123465 (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at inductivecep.eval.ExperimentJob.execute(ExperimentJob.java:101)
+	at predgen.launch.Runner.body(Runner.java:413)
+	at predgen.launch.Runner.execute(Runner.java:471)
+	at predgen.launch.LaunchC50.main(LaunchC50.java:63)
+java.io.FileNotFoundException: /Volumes/RamDisk/Results/filename_Log_123465 (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at inductivecep.eval.ExperimentJob.execute(ExperimentJob.java:112)
+	at predgen.launch.Runner.body(Runner.java:413)
+	at predgen.launch.Runner.execute(Runner.java:471)
+	at predgen.launch.LaunchC50.main(LaunchC50.java:63)
+java.io.FileNotFoundException: /Volumes/RamDisk/Results/filename_Syntactic_123465 (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at inductivecep.eval.ExperimentJob.execute(ExperimentJob.java:123)
+	at predgen.launch.Runner.body(Runner.java:413)
+	at predgen.launch.Runner.execute(Runner.java:471)
+	at predgen.launch.LaunchC50.main(LaunchC50.java:63)
+Feb 28, 2018 2:17:03 AM predgen.launch.Runner body
+INFO: Listing All Rules (Including complex ones)
+Feb 28, 2018 2:17:03 AM predgen.launch.Runner body
+INFO: Rule [win: 20
+Event Constraints: [Event13[(Attribute0 <= 29)], Event6[(Attribute0 >= 17)], Event11[(Attribute0 = 23)]]
+Sequence Constraints: [[Event6[(Attribute0 >= 17)] --> Event11[(Attribute0 = 23)]], [Event13[(Attribute0 <= 29)] --> Event6[(Attribute0 >= 17)]]]
+Aggregate Constraints: [[Max(Event7[].Attribute0)<=28], [Sum(Event0[].Attribute1)>=7], [Avg(Event4[].Attribute0)=35]]]
+Feb 28, 2018 2:17:08 AM predgen.launch.Runner body
+INFO: DataFile Printed
+Feb 28, 2018 2:21:59 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=0| k=0
+Feb 28, 2018 2:21:59 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=932, Detected Events=949, False Positives=17, False Negatives=0, Precision=0.982086406743941, Recall=1.0F1 Measure=0.9909622541201488
+Feb 28, 2018 2:26:35 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=0| k=2
+Feb 28, 2018 2:26:35 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=932, Detected Events=939, False Positives=7, False Negatives=0, Precision=0.9925452609158679, Recall=1.0F1 Measure=0.9962586851950829
+Feb 28, 2018 2:31:22 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=0| k=4
+Feb 28, 2018 2:31:22 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=932, Detected Events=936, False Positives=4, False Negatives=0, Precision=0.9957264957264957, Recall=1.0F1 Measure=0.9978586723768736
+Feb 28, 2018 2:36:10 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=0| k=6
+Feb 28, 2018 2:36:10 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=932, Detected Events=936, False Positives=4, False Negatives=0, Precision=0.9957264957264957, Recall=1.0F1 Measure=0.9978586723768736
+Feb 28, 2018 2:40:59 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=0| k=8
+Feb 28, 2018 2:40:59 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=932, Detected Events=933, False Positives=4, False Negatives=3, Precision=0.9957127545551983, Recall=0.9967811158798283F1 Measure=0.9962466487935657
+Feb 28, 2018 2:45:40 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=0
+Feb 28, 2018 2:45:40 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=932, Detected Events=942, False Positives=10, False Negatives=0, Precision=0.9893842887473461, Recall=1.0F1 Measure=0.9946638207043756
+Feb 28, 2018 2:50:26 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=2
+Feb 28, 2018 2:50:26 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=932, Detected Events=935, False Positives=4, False Negatives=1, Precision=0.9957219251336898, Recall=0.9989270386266095F1 Measure=0.9973219068023568
+Feb 28, 2018 2:55:13 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=4
+Feb 28, 2018 2:55:13 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=932, Detected Events=934, False Positives=3, False Negatives=1, Precision=0.9967880085653105, Recall=0.9989270386266095F1 Measure=0.9978563772775992
+Feb 28, 2018 2:59:56 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=6
+Feb 28, 2018 2:59:56 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=932, Detected Events=933, False Positives=2, False Negatives=1, Precision=0.9978563772775991, Recall=0.9989270386266095F1 Measure=0.9983914209115282
+Feb 28, 2018 3:04:37 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=8
+Feb 28, 2018 3:04:37 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=932, Detected Events=932, False Positives=0, False Negatives=0, Precision=1.0, Recall=1.0F1 Measure=1.0
+Feb 28, 2018 3:09:45 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=0
+Feb 28, 2018 3:09:45 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=932, Detected Events=980, False Positives=48, False Negatives=0, Precision=0.9510204081632653, Recall=1.0F1 Measure=0.9748953974895398
+Feb 28, 2018 3:14:53 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=2
+Feb 28, 2018 3:14:53 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=932, Detected Events=956, False Positives=24, False Negatives=0, Precision=0.9748953974895398, Recall=1.0F1 Measure=0.9872881355932204
+Feb 28, 2018 3:19:50 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=4
+Feb 28, 2018 3:19:50 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=932, Detected Events=942, False Positives=11, False Negatives=1, Precision=0.9883227176220807, Recall=0.9989270386266095F1 Measure=0.9935965848452508
+Feb 28, 2018 3:24:56 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=6
+Feb 28, 2018 3:24:56 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=932, Detected Events=943, False Positives=12, False Negatives=1, Precision=0.9872746553552492, Recall=0.9989270386266095F1 Measure=0.9930666666666668
+EstimatedCost: 6.0
+Feb 28, 2018 3:25:04 AM predgen.launch.Runner body
+INFO: TestFile Printed
+Feb 28, 2018 3:25:08 AM predgen.launch.Runner body
+INFO: RULE[1]-FINAL
+Feb 28, 2018 3:25:12 AM predgen.launch.Runner body
+INFO: Real Events=2842, Detected Events=2889, False Positives=140, False Negatives=93, Precision=0.9515403253721011, Recall=0.9672765657987333F1 Measure=0.9593439190368173
+Feb 28, 2018 3:25:12 AM predgen.launch.Runner body
+INFO: Real Events=18155, Detected Events=18695, False Positives=654, False Negatives=114, Precision=0.9650173843273603, Recall=0.9937207380886808F1 Measure=0.9791587516960651
+Feb 28, 2018 3:25:16 AM predgen.launch.Runner body
+INFO: RULE[1]-ORIGINAL
+Feb 28, 2018 3:25:20 AM predgen.launch.Runner body
+INFO: Real Events=2842, Detected Events=2971, False Positives=202, False Negatives=73, Precision=0.9320094244362168, Recall=0.974313863476425F1 Measure=0.9526922415276106
+Feb 28, 2018 3:25:20 AM predgen.launch.Runner body
+INFO: Real Events=2842, Detected Events=2971, False Positives=202, False Negatives=73, Precision=0.9320094244362168, Recall=0.974313863476425F1 Measure=0.9526922415276106
+Feb 28, 2018 3:25:20 AM inductivecep.eval.ExperimentJob execute
+INFO: Real Rule: Rule [win: 20
+Event Constraints: [Event13[(Attribute0 <= 29)], Event6[(Attribute0 >= 17)], Event11[(Attribute0 = 23)]]
+Sequence Constraints: [[Event6[(Attribute0 >= 17)] --> Event11[(Attribute0 = 23)]], [Event13[(Attribute0 <= 29)] --> Event6[(Attribute0 >= 17)]]]
+Aggregate Constraints: [[Max(Event7[].Attribute0)<=28], [Sum(Event0[].Attribute1)>=7], [Avg(Event4[].Attribute0)=35]]]
+Feb 28, 2018 3:25:22 AM inductivecep.eval.ExperimentJob execute
+INFO: Learned Rule: Rule [win: 20
+Event Constraints: [Event11[(Attribute0 = 23)], Event6[(Attribute0 >= 1 AND Attribute0 <= 49)], Event7[(Attribute0 >= 0 AND Attribute0 <= 28)], Event13[(Attribute0 >= 0 AND Attribute0 <= 48)]]
+Sequence Constraints: [[Event6[(Attribute0 >= 1 AND Attribute0 <= 49)] --> Event11[(Attribute0 = 23)]], [Event13[(Attribute0 >= 0 AND Attribute0 <= 48)] --> Event6[(Attribute0 >= 1 AND Attribute0 <= 49)]], [Event13[(Attribute0 >= 0 AND Attribute0 <= 48)] --> Event11[(Attribute0 = 23)]]]]
+Feb 28, 2018 3:25:22 AM inductivecep.eval.ExperimentJob evaluateLearnedRule
+INFO: Real Events=3936, Detected Events=4055, False Positives=119, False Negatives=0, Precision=0.9706535141800247, Recall=1.0
+Feb 28, 2018 3:25:22 AM inductivecep.eval.ExperimentJob getSynthacticDifferencesBetweenRules
+INFO: SyntacticDifferenceStatistics [typeDistance=2.0, attributeDistance=1.0, predicateDistance=0.15220992998770777, winDistance=0.0, parameterDistance=0.0, aggregateDistance=3.0, sequenceDistance=5.0, negationDistance=0.0]
+java.io.FileNotFoundException: /Volumes/RamDisk/Results/filename_123466 (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at inductivecep.eval.ExperimentJob.execute(ExperimentJob.java:101)
+	at predgen.launch.Runner.body(Runner.java:413)
+	at predgen.launch.Runner.execute(Runner.java:471)
+	at predgen.launch.LaunchC50.main(LaunchC50.java:63)
+java.io.FileNotFoundException: /Volumes/RamDisk/Results/filename_Log_123466 (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at inductivecep.eval.ExperimentJob.execute(ExperimentJob.java:112)
+	at predgen.launch.Runner.body(Runner.java:413)
+	at predgen.launch.Runner.execute(Runner.java:471)
+	at predgen.launch.LaunchC50.main(LaunchC50.java:63)
+java.io.FileNotFoundException: /Volumes/RamDisk/Results/filename_Syntactic_123466 (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at inductivecep.eval.ExperimentJob.execute(ExperimentJob.java:123)
+	at predgen.launch.Runner.body(Runner.java:413)
+	at predgen.launch.Runner.execute(Runner.java:471)
+	at predgen.launch.LaunchC50.main(LaunchC50.java:63)
+Feb 28, 2018 3:26:18 AM predgen.launch.Runner body
+INFO: Listing All Rules (Including complex ones)
+Feb 28, 2018 3:26:18 AM predgen.launch.Runner body
+INFO: Rule [win: 20
+Event Constraints: [Event1[(Attribute0 = 17)], Event2[(Attribute0 <= 6)], Event11[(Attribute0 >= 21)]]
+Sequence Constraints: [[Event1[(Attribute0 = 17)] --> Event2[(Attribute0 <= 6)]], [Event2[(Attribute0 <= 6)] --> Event11[(Attribute0 >= 21)]]]
+Aggregate Constraints: [[Sum(Event9[].Attribute0)=43], [Min(Event3[].Attribute1)<=4], [Sum(Event10[].Attribute0)<=30], [Sum(Event8[].Attribute1)=28], [Avg(Event0[].Attribute0)>=37]]]
+Feb 28, 2018 3:26:34 AM predgen.launch.Runner body
+INFO: DataFile Printed
+Feb 28, 2018 3:31:55 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=0| k=0
+Feb 28, 2018 3:31:55 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=876, Detected Events=1015, False Positives=139, False Negatives=0, Precision=0.8630541871921182, Recall=1.0F1 Measure=0.9264939185616077
+Feb 28, 2018 3:37:02 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=0| k=2
+Feb 28, 2018 3:37:02 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=876, Detected Events=893, False Positives=17, False Negatives=0, Precision=0.9809630459126539, Recall=1.0F1 Measure=0.9903900508762012
+Feb 28, 2018 3:41:57 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=0| k=4
+Feb 28, 2018 3:41:57 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=876, Detected Events=920, False Positives=44, False Negatives=0, Precision=0.9521739130434783, Recall=1.0F1 Measure=0.9755011135857461
+Feb 28, 2018 3:46:59 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=0
+Feb 28, 2018 3:46:59 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=876, Detected Events=1056, False Positives=180, False Negatives=0, Precision=0.8295454545454546, Recall=1.0F1 Measure=0.906832298136646
+Feb 28, 2018 3:52:03 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=2
+Feb 28, 2018 3:52:03 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=876, Detected Events=901, False Positives=25, False Negatives=0, Precision=0.9722530521642619, Recall=1.0F1 Measure=0.9859313449634215
+Feb 28, 2018 3:57:03 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=4
+Feb 28, 2018 3:57:03 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=876, Detected Events=919, False Positives=43, False Negatives=0, Precision=0.9532100108813928, Recall=1.0F1 Measure=0.9760445682451253
+Feb 28, 2018 4:03:04 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=0
+Feb 28, 2018 4:03:04 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=876, Detected Events=1293, False Positives=417, False Negatives=0, Precision=0.6774941995359629, Recall=1.0F1 Measure=0.8077455048409405
+Feb 28, 2018 4:12:27 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=2
+Feb 28, 2018 4:12:27 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=876, Detected Events=1217, False Positives=341, False Negatives=0, Precision=0.7198027937551356, Recall=1.0F1 Measure=0.8370759675107502
+Feb 28, 2018 4:20:50 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=4
+Feb 28, 2018 4:20:50 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=876, Detected Events=1067, False Positives=191, False Negatives=0, Precision=0.8209934395501406, Recall=1.0F1 Measure=0.9016984045290788
+Feb 28, 2018 4:30:09 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=6
+Feb 28, 2018 4:30:09 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=876, Detected Events=1077, False Positives=201, False Negatives=0, Precision=0.8133704735376045, Recall=1.0F1 Measure=0.8970814132104454
+EstimatedCost: 2.6666667461395264
+Feb 28, 2018 4:30:27 AM predgen.launch.Runner body
+INFO: TestFile Printed
+Feb 28, 2018 4:31:53 AM predgen.launch.Runner body
+INFO: RULE[1]-FINAL
+Feb 28, 2018 4:31:57 AM predgen.launch.Runner body
+INFO: Real Events=2722, Detected Events=3225, False Positives=539, False Negatives=36, Precision=0.8328682170542636, Recall=0.9867744305657604F1 Measure=0.9033125945855053
+Feb 28, 2018 4:31:57 AM predgen.launch.Runner body
+INFO: Real Events=14324, Detected Events=16554, False Positives=2339, False Negatives=109, Precision=0.8587048447505135, Recall=0.992390393744764F1 Measure=0.9207202539024547
+Feb 28, 2018 4:32:20 AM predgen.launch.Runner body
+INFO: RULE[1]-ORIGINAL
+Feb 28, 2018 4:32:24 AM predgen.launch.Runner body
+INFO: Real Events=2722, Detected Events=3606, False Positives=904, False Negatives=20, Precision=0.7493067110371603, Recall=0.9926524614254225F1 Measure=0.8539823008849557
+Feb 28, 2018 4:32:24 AM predgen.launch.Runner body
+INFO: Real Events=2722, Detected Events=3606, False Positives=904, False Negatives=20, Precision=0.7493067110371603, Recall=0.9926524614254225F1 Measure=0.8539823008849557
+Feb 28, 2018 4:32:24 AM inductivecep.eval.ExperimentJob execute
+INFO: Real Rule: Rule [win: 20
+Event Constraints: [Event1[(Attribute0 = 17)], Event2[(Attribute0 <= 6)], Event11[(Attribute0 >= 21)]]
+Sequence Constraints: [[Event2[(Attribute0 <= 6)] --> Event11[(Attribute0 >= 21)]], [Event1[(Attribute0 = 17)] --> Event2[(Attribute0 <= 6)]]]
+Aggregate Constraints: [[Sum(Event9[].Attribute0)=43], [Min(Event3[].Attribute1)<=4], [Sum(Event10[].Attribute0)<=30], [Sum(Event8[].Attribute1)=28], [Avg(Event0[].Attribute0)>=37]]]
+Feb 28, 2018 4:32:25 AM inductivecep.eval.ExperimentJob execute
+INFO: Learned Rule: Rule [win: 20
+Event Constraints: [Event9[(Attribute0 >= 0 AND Attribute0 <= 43)], Event1[(Attribute0 = 17)], Event2[(Attribute0 <= 49 AND Attribute0 >= 0)], Event11[(Attribute0 <= 49 AND Attribute0 >= 0)]]
+Sequence Constraints: [[Event1[(Attribute0 = 17)] --> Event2[(Attribute0 <= 49 AND Attribute0 >= 0)]], [Event1[(Attribute0 = 17)] --> Event11[(Attribute0 <= 49 AND Attribute0 >= 0)]], [Event2[(Attribute0 <= 49 AND Attribute0 >= 0)] --> Event11[(Attribute0 <= 49 AND Attribute0 >= 0)]]]]
+Feb 28, 2018 4:32:26 AM inductivecep.eval.ExperimentJob evaluateLearnedRule
+INFO: Real Events=4061, Detected Events=5176, False Positives=1115, False Negatives=0, Precision=0.7845826893353941, Recall=1.0
+Feb 28, 2018 4:32:26 AM inductivecep.eval.ExperimentJob getSynthacticDifferencesBetweenRules
+INFO: SyntacticDifferenceStatistics [typeDistance=4.0, attributeDistance=1.0, predicateDistance=0.35462315462315463, winDistance=0.0, parameterDistance=0.0, aggregateDistance=5.0, sequenceDistance=5.0, negationDistance=0.0]
+java.io.FileNotFoundException: /Volumes/RamDisk/Results/filename_123467 (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at inductivecep.eval.ExperimentJob.execute(ExperimentJob.java:101)
+	at predgen.launch.Runner.body(Runner.java:413)
+	at predgen.launch.Runner.execute(Runner.java:471)
+	at predgen.launch.LaunchC50.main(LaunchC50.java:63)
+java.io.FileNotFoundException: /Volumes/RamDisk/Results/filename_Log_123467 (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at inductivecep.eval.ExperimentJob.execute(ExperimentJob.java:112)
+	at predgen.launch.Runner.body(Runner.java:413)
+	at predgen.launch.Runner.execute(Runner.java:471)
+	at predgen.launch.LaunchC50.main(LaunchC50.java:63)
+java.io.FileNotFoundException: /Volumes/RamDisk/Results/filename_Syntactic_123467 (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at inductivecep.eval.ExperimentJob.execute(ExperimentJob.java:123)
+	at predgen.launch.Runner.body(Runner.java:413)
+	at predgen.launch.Runner.execute(Runner.java:471)
+	at predgen.launch.LaunchC50.main(LaunchC50.java:63)
+Feb 28, 2018 4:33:21 AM predgen.launch.Runner body
+INFO: Listing All Rules (Including complex ones)
+Feb 28, 2018 4:33:21 AM predgen.launch.Runner body
+INFO: Rule [win: 20
+Event Constraints: [Event11[(Attribute0 >= 10)], Event14[(Attribute0 <= 48)], Event4[(Attribute0 = 0)]]
+Sequence Constraints: [[Event14[(Attribute0 <= 48)] --> Event4[(Attribute0 = 0)]], [Event11[(Attribute0 >= 10)] --> Event14[(Attribute0 <= 48)]]]
+Aggregate Constraints: [[Avg(Event10[].Attribute0)=39], [Min(Event2[].Attribute1)>=43]]]
+Feb 28, 2018 4:33:25 AM predgen.launch.Runner body
+INFO: DataFile Printed
+Feb 28, 2018 4:37:58 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=0| k=0
+Feb 28, 2018 4:37:58 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=728, Detected Events=729, False Positives=1, False Negatives=0, Precision=0.9986282578875172, Recall=1.0F1 Measure=0.9993136582017845
+Feb 28, 2018 4:42:45 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=0| k=2
+Feb 28, 2018 4:42:45 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=728, Detected Events=728, False Positives=0, False Negatives=0, Precision=1.0, Recall=1.0F1 Measure=1.0
+Feb 28, 2018 4:47:31 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=0
+Feb 28, 2018 4:47:31 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=728, Detected Events=730, False Positives=2, False Negatives=0, Precision=0.9972602739726028, Recall=1.0F1 Measure=0.9986282578875172
+Feb 28, 2018 4:52:19 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=2
+Feb 28, 2018 4:52:19 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=728, Detected Events=730, False Positives=2, False Negatives=0, Precision=0.9972602739726028, Recall=1.0F1 Measure=0.9986282578875172
+Feb 28, 2018 4:56:52 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=4
+Feb 28, 2018 4:56:52 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=728, Detected Events=729, False Positives=1, False Negatives=0, Precision=0.9986282578875172, Recall=1.0F1 Measure=0.9993136582017845
+Feb 28, 2018 5:01:39 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=6
+Feb 28, 2018 5:01:39 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=728, Detected Events=728, False Positives=1, False Negatives=1, Precision=0.9986263736263736, Recall=0.9986263736263736F1 Measure=0.9986263736263736
+Feb 28, 2018 5:06:44 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=0
+Feb 28, 2018 5:06:44 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=728, Detected Events=1065, False Positives=338, False Negatives=1, Precision=0.6826291079812207, Recall=0.9986263736263736F1 Measure=0.8109313998884551
+Feb 28, 2018 5:11:49 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=2
+Feb 28, 2018 5:11:49 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=728, Detected Events=1023, False Positives=296, False Negatives=1, Precision=0.7106549364613881, Recall=0.9986263736263736F1 Measure=0.8303826384922901
+Feb 28, 2018 5:16:40 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=4
+Feb 28, 2018 5:16:40 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=728, Detected Events=981, False Positives=258, False Negatives=5, Precision=0.7370030581039755, Recall=0.9931318681318682F1 Measure=0.8461088355763604
+Feb 28, 2018 5:21:44 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=6
+Feb 28, 2018 5:21:44 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=728, Detected Events=969, False Positives=253, False Negatives=12, Precision=0.7389060887512899, Recall=0.9835164835164835F1 Measure=0.8438420742486741
+EstimatedCost: 3.3333332538604736
+Feb 28, 2018 5:21:50 AM predgen.launch.Runner body
+INFO: TestFile Printed
+Feb 28, 2018 5:21:52 AM predgen.launch.Runner body
+INFO: RULE[1]-FINAL
+Feb 28, 2018 5:21:55 AM predgen.launch.Runner body
+INFO: Real Events=2151, Detected Events=2552, False Positives=406, False Negatives=5, Precision=0.8409090909090909, Recall=0.99767549976755F1 Measure=0.9126089729959601
+Feb 28, 2018 5:21:55 AM predgen.launch.Runner body
+INFO: Real Events=12153, Detected Events=14570, False Positives=2462, False Negatives=45, Precision=0.8310226492793411, Recall=0.9962972105652925F1 Measure=0.9061856827452007
+Feb 28, 2018 5:21:57 AM predgen.launch.Runner body
+INFO: RULE[1]-ORIGINAL
+Feb 28, 2018 5:22:01 AM predgen.launch.Runner body
+INFO: Real Events=2151, Detected Events=2582, False Positives=437, False Negatives=6, Precision=0.8307513555383423, Recall=0.99721059972106F1 Measure=0.906401859285865
+Feb 28, 2018 5:22:01 AM predgen.launch.Runner body
+INFO: Real Events=2151, Detected Events=2582, False Positives=437, False Negatives=6, Precision=0.8307513555383423, Recall=0.99721059972106F1 Measure=0.906401859285865
+Feb 28, 2018 5:22:01 AM inductivecep.eval.ExperimentJob execute
+INFO: Real Rule: Rule [win: 20
+Event Constraints: [Event11[(Attribute0 >= 10)], Event14[(Attribute0 <= 48)], Event4[(Attribute0 = 0)]]
+Sequence Constraints: [[Event14[(Attribute0 <= 48)] --> Event4[(Attribute0 = 0)]], [Event11[(Attribute0 >= 10)] --> Event14[(Attribute0 <= 48)]]]
+Aggregate Constraints: [[Avg(Event10[].Attribute0)=39], [Min(Event2[].Attribute1)>=43]]]
+Feb 28, 2018 5:22:02 AM inductivecep.eval.ExperimentJob execute
+INFO: Learned Rule: Rule [win: 20
+Event Constraints: [Event10[(Attribute0 <= 50 AND Attribute0 >= 9)], Event14[(Attribute0 <= 49 AND Attribute0 >= 0)], Event4[(Attribute0 = 0)], Event11[(Attribute0 <= 49 AND Attribute0 >= 2)]]
+Sequence Constraints: [[Event14[(Attribute0 <= 49 AND Attribute0 >= 0)] --> Event4[(Attribute0 = 0)]], [Event11[(Attribute0 <= 49 AND Attribute0 >= 2)] --> Event4[(Attribute0 = 0)]], [Event11[(Attribute0 <= 49 AND Attribute0 >= 2)] --> Event14[(Attribute0 <= 49 AND Attribute0 >= 0)]]]]
+Feb 28, 2018 5:22:02 AM inductivecep.eval.ExperimentJob evaluateLearnedRule
+INFO: Real Events=2777, Detected Events=3630, False Positives=853, False Negatives=0, Precision=0.7650137741046832, Recall=1.0
+Feb 28, 2018 5:22:02 AM inductivecep.eval.ExperimentJob getSynthacticDifferencesBetweenRules
+INFO: SyntacticDifferenceStatistics [typeDistance=1.0, attributeDistance=1.0, predicateDistance=0.037919184737528144, winDistance=0.0, parameterDistance=0.0, aggregateDistance=2.0, sequenceDistance=5.0, negationDistance=0.0]
+java.io.FileNotFoundException: /Volumes/RamDisk/Results/filename_123468 (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at inductivecep.eval.ExperimentJob.execute(ExperimentJob.java:101)
+	at predgen.launch.Runner.body(Runner.java:413)
+	at predgen.launch.Runner.execute(Runner.java:471)
+	at predgen.launch.LaunchC50.main(LaunchC50.java:63)
+java.io.FileNotFoundException: /Volumes/RamDisk/Results/filename_Log_123468 (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at inductivecep.eval.ExperimentJob.execute(ExperimentJob.java:112)
+	at predgen.launch.Runner.body(Runner.java:413)
+	at predgen.launch.Runner.execute(Runner.java:471)
+	at predgen.launch.LaunchC50.main(LaunchC50.java:63)
+java.io.FileNotFoundException: /Volumes/RamDisk/Results/filename_Syntactic_123468 (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at inductivecep.eval.ExperimentJob.execute(ExperimentJob.java:123)
+	at predgen.launch.Runner.body(Runner.java:413)
+	at predgen.launch.Runner.execute(Runner.java:471)
+	at predgen.launch.LaunchC50.main(LaunchC50.java:63)
+Feb 28, 2018 5:22:58 AM predgen.launch.Runner body
+INFO: Listing All Rules (Including complex ones)
+Feb 28, 2018 5:22:58 AM predgen.launch.Runner body
+INFO: Rule [win: 20
+Event Constraints: [Event0[(Attribute0 >= 48)], Event11[(Attribute0 <= 35)], Event9[(Attribute0 <= 48)]]
+Sequence Constraints: [[Event0[(Attribute0 >= 48)] --> Event11[(Attribute0 <= 35)]], [Event11[(Attribute0 <= 35)] --> Event9[(Attribute0 <= 48)]]]
+Aggregate Constraints: [[Avg(Event6[].Attribute1)=27], [Avg(Event1[].Attribute1)=28], [Sum(Event10[].Attribute1)<=17]]]
+Feb 28, 2018 5:23:03 AM predgen.launch.Runner body
+INFO: DataFile Printed
+Feb 28, 2018 5:27:46 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=0| k=0
+Feb 28, 2018 5:27:46 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=786, Detected Events=812, False Positives=26, False Negatives=0, Precision=0.9679802955665024, Recall=1.0F1 Measure=0.9837296620775969
+Feb 28, 2018 5:32:24 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=0| k=2
+Feb 28, 2018 5:32:24 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=786, Detected Events=797, False Positives=11, False Negatives=0, Precision=0.986198243412798, Recall=1.0F1 Measure=0.9930511686670879
+Feb 28, 2018 5:37:00 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=0| k=4
+Feb 28, 2018 5:37:00 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=786, Detected Events=793, False Positives=7, False Negatives=0, Precision=0.9911727616645649, Recall=1.0F1 Measure=0.9955668144395187
+Feb 28, 2018 5:41:43 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=0| k=6
+Feb 28, 2018 5:41:43 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=786, Detected Events=789, False Positives=3, False Negatives=0, Precision=0.9961977186311787, Recall=1.0F1 Measure=0.9980952380952381
+Feb 28, 2018 5:46:26 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=0| k=8
+Feb 28, 2018 5:46:26 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=786, Detected Events=786, False Positives=0, False Negatives=0, Precision=1.0, Recall=1.0F1 Measure=1.0
+Feb 28, 2018 5:51:09 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=0
+Feb 28, 2018 5:51:09 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=786, Detected Events=814, False Positives=28, False Negatives=0, Precision=0.9656019656019657, Recall=1.0F1 Measure=0.9825
+Feb 28, 2018 5:55:41 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=2
+Feb 28, 2018 5:55:41 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=786, Detected Events=797, False Positives=11, False Negatives=0, Precision=0.986198243412798, Recall=1.0F1 Measure=0.9930511686670879
+Feb 28, 2018 6:00:25 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=4
+Feb 28, 2018 6:00:25 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=786, Detected Events=791, False Positives=5, False Negatives=0, Precision=0.9936788874841972, Recall=1.0F1 Measure=0.9968294229549778
+Feb 28, 2018 6:05:10 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=6
+Feb 28, 2018 6:05:10 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=786, Detected Events=787, False Positives=1, False Negatives=0, Precision=0.9987293519695044, Recall=1.0F1 Measure=0.9993642720915448
+Feb 28, 2018 6:09:55 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=8
+Feb 28, 2018 6:09:55 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=786, Detected Events=787, False Positives=1, False Negatives=0, Precision=0.9987293519695044, Recall=1.0F1 Measure=0.9993642720915448
+Feb 28, 2018 6:14:33 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=10
+Feb 28, 2018 6:14:33 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=786, Detected Events=788, False Positives=2, False Negatives=0, Precision=0.9974619289340102, Recall=1.0F1 Measure=0.9987293519695045
+Feb 28, 2018 6:19:51 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=0
+Feb 28, 2018 6:19:51 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=786, Detected Events=1201, False Positives=415, False Negatives=0, Precision=0.6544546211490425, Recall=1.0F1 Measure=0.7911424257674887
+Feb 28, 2018 6:24:59 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=2
+Feb 28, 2018 6:24:59 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=786, Detected Events=1038, False Positives=253, False Negatives=1, Precision=0.75626204238921, Recall=0.9987277353689568F1 Measure=0.8607456140350878
+Feb 28, 2018 6:30:03 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=4
+Feb 28, 2018 6:30:03 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=786, Detected Events=938, False Positives=153, False Negatives=1, Precision=0.8368869936034116, Recall=0.9987277353689568F1 Measure=0.9106728538283062
+Feb 28, 2018 6:35:06 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=6
+Feb 28, 2018 6:35:06 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=786, Detected Events=883, False Positives=98, False Negatives=1, Precision=0.8890147225368064, Recall=0.9987277353689568F1 Measure=0.9406830437387658
+Feb 28, 2018 6:40:15 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=8
+Feb 28, 2018 6:40:15 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=786, Detected Events=882, False Positives=102, False Negatives=6, Precision=0.8843537414965986, Recall=0.9923664122137404F1 Measure=0.935251798561151
+EstimatedCost: 7.333333492279053
+Feb 28, 2018 6:40:22 AM predgen.launch.Runner body
+INFO: TestFile Printed
+Feb 28, 2018 6:40:37 AM predgen.launch.Runner body
+INFO: RULE[1]-FINAL
+Feb 28, 2018 6:40:41 AM predgen.launch.Runner body
+INFO: Real Events=2339, Detected Events=2814, False Positives=488, False Negatives=13, Precision=0.8265813788201848, Recall=0.9944420692603677F1 Measure=0.9027750824762274
+Feb 28, 2018 6:40:41 AM predgen.launch.Runner body
+INFO: Real Events=17066, Detected Events=19079, False Positives=2041, False Negatives=28, Precision=0.8930237433827769, Recall=0.9983593109105825F1 Measure=0.9427583344860977
+Feb 28, 2018 6:40:53 AM predgen.launch.Runner body
+INFO: RULE[1]-ORIGINAL
+Feb 28, 2018 6:40:56 AM predgen.launch.Runner body
+INFO: Real Events=2339, Detected Events=2887, False Positives=557, False Negatives=9, Precision=0.8070661586421891, Recall=0.9961522017956391F1 Measure=0.8916953693073096
+Feb 28, 2018 6:40:56 AM predgen.launch.Runner body
+INFO: Real Events=2339, Detected Events=2887, False Positives=557, False Negatives=9, Precision=0.8070661586421891, Recall=0.9961522017956391F1 Measure=0.8916953693073096
+Feb 28, 2018 6:40:56 AM inductivecep.eval.ExperimentJob execute
+INFO: Real Rule: Rule [win: 20
+Event Constraints: [Event0[(Attribute0 >= 48)], Event11[(Attribute0 <= 35)], Event9[(Attribute0 <= 48)]]
+Sequence Constraints: [[Event0[(Attribute0 >= 48)] --> Event11[(Attribute0 <= 35)]], [Event11[(Attribute0 <= 35)] --> Event9[(Attribute0 <= 48)]]]
+Aggregate Constraints: [[Avg(Event6[].Attribute1)=27], [Avg(Event1[].Attribute1)=28], [Sum(Event10[].Attribute1)<=17]]]
+Feb 28, 2018 6:40:58 AM inductivecep.eval.ExperimentJob execute
+INFO: Learned Rule: Rule [win: 20
+Event Constraints: [Event6[(Attribute1 <= 50 AND Attribute1 >= 0)], Event11[(Attribute0 <= 49 AND Attribute0 >= 0)], Event0[(Attribute0 <= 49 AND Attribute0 >= 0)], Event9[(Attribute0 >= 0 AND Attribute0 <= 47)]]
+Sequence Constraints: [[Event0[(Attribute0 <= 49 AND Attribute0 >= 0)] --> Event11[(Attribute0 <= 49 AND Attribute0 >= 0)]], [Event0[(Attribute0 <= 49 AND Attribute0 >= 0)] --> Event9[(Attribute0 >= 0 AND Attribute0 <= 47)]], [Event11[(Attribute0 <= 49 AND Attribute0 >= 0)] --> Event9[(Attribute0 >= 0 AND Attribute0 <= 47)]]]]
+Feb 28, 2018 6:40:58 AM inductivecep.eval.ExperimentJob evaluateLearnedRule
+INFO: Real Events=3255, Detected Events=14659, False Positives=11404, False Negatives=0, Precision=0.22204788866907701, Recall=1.0
+Feb 28, 2018 6:40:58 AM inductivecep.eval.ExperimentJob getSynthacticDifferencesBetweenRules
+INFO: SyntacticDifferenceStatistics [typeDistance=2.0, attributeDistance=1.0, predicateDistance=0.37932576539387686, winDistance=0.0, parameterDistance=0.0, aggregateDistance=3.0, sequenceDistance=5.0, negationDistance=0.0]
+java.io.FileNotFoundException: /Volumes/RamDisk/Results/filename_123469 (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at inductivecep.eval.ExperimentJob.execute(ExperimentJob.java:101)
+	at predgen.launch.Runner.body(Runner.java:413)
+	at predgen.launch.Runner.execute(Runner.java:471)
+	at predgen.launch.LaunchC50.main(LaunchC50.java:63)
+java.io.FileNotFoundException: /Volumes/RamDisk/Results/filename_Log_123469 (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at inductivecep.eval.ExperimentJob.execute(ExperimentJob.java:112)
+	at predgen.launch.Runner.body(Runner.java:413)
+	at predgen.launch.Runner.execute(Runner.java:471)
+	at predgen.launch.LaunchC50.main(LaunchC50.java:63)
+java.io.FileNotFoundException: /Volumes/RamDisk/Results/filename_Syntactic_123469 (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at inductivecep.eval.ExperimentJob.execute(ExperimentJob.java:123)
+	at predgen.launch.Runner.body(Runner.java:413)
+	at predgen.launch.Runner.execute(Runner.java:471)
+	at predgen.launch.LaunchC50.main(LaunchC50.java:63)
+Feb 28, 2018 6:41:55 AM predgen.launch.Runner body
+INFO: Listing All Rules (Including complex ones)
+Feb 28, 2018 6:41:55 AM predgen.launch.Runner body
+INFO: Rule [win: 20
+Event Constraints: [Event12[(Attribute0 <= 32)], Event14[(Attribute0 >= 20)], Event3[(Attribute0 >= 8)]]
+Sequence Constraints: [[Event12[(Attribute0 <= 32)] --> Event14[(Attribute0 >= 20)]], [Event14[(Attribute0 >= 20)] --> Event3[(Attribute0 >= 8)]]]
+Aggregate Constraints: [[Sum(Event11[].Attribute0)<=11], [Avg(Event6[].Attribute1)>=27], [Max(Event13[].Attribute0)<=22], [Max(Event2[].Attribute0)>=14], [Max(Event7[].Attribute1)=2]]]
+Feb 28, 2018 6:42:16 AM predgen.launch.Runner body
+INFO: DataFile Printed
+Feb 28, 2018 6:48:01 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=0| k=0
+Feb 28, 2018 6:48:01 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1317, Detected Events=1562, False Positives=245, False Negatives=0, Precision=0.8431498079385403, Recall=1.0F1 Measure=0.9149010072941993
+Feb 28, 2018 6:53:23 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=0| k=2
+Feb 28, 2018 6:53:23 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1317, Detected Events=1410, False Positives=93, False Negatives=0, Precision=0.9340425531914893, Recall=1.0F1 Measure=0.9658965896589659
+Feb 28, 2018 6:58:57 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=0| k=4
+Feb 28, 2018 6:58:57 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1317, Detected Events=1367, False Positives=50, False Negatives=0, Precision=0.9634235552304315, Recall=1.0F1 Measure=0.981371087928465
+Feb 28, 2018 7:04:30 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=0| k=6
+Feb 28, 2018 7:04:30 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1317, Detected Events=1354, False Positives=37, False Negatives=0, Precision=0.9726735598227474, Recall=1.0F1 Measure=0.9861475102957694
+Feb 28, 2018 7:09:59 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=0| k=8
+Feb 28, 2018 7:09:59 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1317, Detected Events=1352, False Positives=35, False Negatives=0, Precision=0.974112426035503, Recall=1.0F1 Measure=0.9868864743349569
+Feb 28, 2018 7:15:27 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=0| k=10
+Feb 28, 2018 7:15:27 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1317, Detected Events=1349, False Positives=32, False Negatives=0, Precision=0.9762787249814677, Recall=1.0F1 Measure=0.9879969992498124
+Feb 28, 2018 7:21:02 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=0| k=12
+Feb 28, 2018 7:21:02 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1317, Detected Events=1346, False Positives=29, False Negatives=0, Precision=0.9784546805349182, Recall=1.0F1 Measure=0.9891100262861434
+Feb 28, 2018 7:26:38 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=0| k=14
+Feb 28, 2018 7:26:38 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1317, Detected Events=1346, False Positives=29, False Negatives=0, Precision=0.9784546805349182, Recall=1.0F1 Measure=0.9891100262861434
+Feb 28, 2018 7:32:02 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=0| k=16
+Feb 28, 2018 7:32:02 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1317, Detected Events=1348, False Positives=31, False Negatives=0, Precision=0.9770029673590505, Recall=1.0F1 Measure=0.9883677298311445
+Feb 28, 2018 7:37:30 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=0
+Feb 28, 2018 7:37:30 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1317, Detected Events=1607, False Positives=290, False Negatives=0, Precision=0.819539514623522, Recall=1.0F1 Measure=0.9008207934336525
+Feb 28, 2018 7:43:05 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=2
+Feb 28, 2018 7:43:05 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1317, Detected Events=1400, False Positives=83, False Negatives=0, Precision=0.9407142857142857, Recall=1.0F1 Measure=0.9694516010305484
+Feb 28, 2018 7:48:38 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=4
+Feb 28, 2018 7:48:38 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1317, Detected Events=1377, False Positives=60, False Negatives=0, Precision=0.9564270152505446, Recall=1.0F1 Measure=0.9777282850779511
+Feb 28, 2018 7:53:59 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=6
+Feb 28, 2018 7:53:59 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1317, Detected Events=1367, False Positives=50, False Negatives=0, Precision=0.9634235552304315, Recall=1.0F1 Measure=0.981371087928465
+Feb 28, 2018 7:59:33 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=8
+Feb 28, 2018 7:59:33 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1317, Detected Events=1347, False Positives=30, False Negatives=0, Precision=0.977728285077951, Recall=1.0F1 Measure=0.9887387387387387
+Feb 28, 2018 8:05:08 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=10
+Feb 28, 2018 8:05:08 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1317, Detected Events=1347, False Positives=30, False Negatives=0, Precision=0.977728285077951, Recall=1.0F1 Measure=0.9887387387387387
+Feb 28, 2018 8:10:37 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=12
+Feb 28, 2018 8:10:37 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1317, Detected Events=1343, False Positives=26, False Negatives=0, Precision=0.9806403574087863, Recall=1.0F1 Measure=0.9902255639097745
+Feb 28, 2018 8:16:05 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=14
+Feb 28, 2018 8:16:05 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1317, Detected Events=1343, False Positives=26, False Negatives=0, Precision=0.9806403574087863, Recall=1.0F1 Measure=0.9902255639097745
+Feb 28, 2018 8:21:39 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=16
+Feb 28, 2018 8:21:39 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1317, Detected Events=1339, False Positives=22, False Negatives=0, Precision=0.9835698282300224, Recall=1.0F1 Measure=0.9917168674698794
+Feb 28, 2018 8:27:14 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=18
+Feb 28, 2018 8:27:14 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1317, Detected Events=1338, False Positives=21, False Negatives=0, Precision=0.984304932735426, Recall=1.0F1 Measure=0.9920903954802259
+Feb 28, 2018 8:32:37 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=1| k=20
+Feb 28, 2018 8:32:37 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1317, Detected Events=1338, False Positives=21, False Negatives=0, Precision=0.984304932735426, Recall=1.0F1 Measure=0.9920903954802259
+Feb 28, 2018 8:38:31 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=0
+Feb 28, 2018 8:38:31 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1317, Detected Events=1694, False Positives=377, False Negatives=0, Precision=0.7774498229043684, Recall=1.0F1 Measure=0.8747924277648621
+Feb 28, 2018 8:44:30 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=2
+Feb 28, 2018 8:44:30 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1317, Detected Events=1525, False Positives=208, False Negatives=0, Precision=0.8636065573770492, Recall=1.0F1 Measure=0.9268121041520055
+Feb 28, 2018 8:50:34 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: ***RULE[1]*** XV=2| k=4
+Feb 28, 2018 8:50:34 AM predgen.launch.Runner estimateMissclassificationCostsFor
+INFO: Real Events=1317, Detected Events=1430, False Positives=113, False Negatives=0, Precision=0.920979020979021, Recall=1.0F1 Measure=0.9588642155078267
